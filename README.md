@@ -1,4 +1,4 @@
-# KNOwledge Discovery & Information SYstems (KNODIS)
+# KNOwledge Discovery & Information Systems (KNODIS)
 
 ## About us
 
