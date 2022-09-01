@@ -52,3 +52,4 @@
 
 ## Research resources
 
+- Collaborative Filtering for Java (CF4J): [http://cf4j.etsisi.upm.es/](http://cf4j.etsisi.upm.es/)
