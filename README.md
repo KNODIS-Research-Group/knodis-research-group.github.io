@@ -1,4 +1,4 @@
-## About us
+## About KNODIS
 
 KNOwledge Discovery & Information Systems (KNODIS) is a research group located at the *Universidad Politécnica de Madrid*. Our area of research focuses on machine learning and data science. More specifically, our research focuses on the sub-areas of recommender systems, deep learning and combinatorial optimization. We have a proven research background with dozens of publications in leading international scientific journals and we work actively with industry to transfer the knowledge resulting from our research to society.
 
@@ -51,7 +51,6 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 - Zhu, B., Hurtado, R., Bobadilla, J., & Ortega, F. (2018). **An efficient recommender system method based on the numerical relevances and the non-numerical structures of the ratings**, IEEE Access 6, 49935-49954. \[ [Open Access](https://ieeexplore.ieee.org/document/8453781) \]
 - Ortega, F., Rojo, D., Valdiviezo, P., & Raya, L. (2018). **Hybrid Collaborative Filtering based on Users Rating Behavior**, IEEE Access 6, 69582-69591. \[ [Open Access](https://ieeexplore.ieee.org/document/8533607) \]
 - Hurtado, R., Bobadilla, J., Bojorque, R., Ortega, F., & Li, X. (2018). **A new recommendation approach based on probabilistic soft clustering methods: A scientific documentation case study**, IEEE Access 7, 7522-7534. \[ [Open Access](https://ieeexplore.ieee.org/document/8594540) \]
-- Hernando, A., Bobadilla, J., Ortega, F., & Gutiérrez, A. (2017). **A probabilistic model for recommending to new cold-start non-registered users**, Information Sciences 376, 216-232. 
 
 ## Active research projects
 
