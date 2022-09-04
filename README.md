@@ -1,4 +1,4 @@
-# KNODIS research group
+# KNODIS research groupthe
 
 ## About us
 
@@ -7,7 +7,7 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 ## Members
 
 ### Research group leader
-- Fernando Ortega ([fernando.ortega@upm.es](mailto:fernando.ortega@upm.es)) \[ [Google Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0003-4765-1479) \]
+- Fernando Ortega ([fernando.ortega@upm.es](mailto:fernando.ortega@upm.es)) \[ [Google Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en) \| [ORCID](https://orcid.org/0000-0003-4765-1479) \]
 
 ### Research team
 
@@ -25,20 +25,20 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 ## Recent publications
 
 - A. González, F. Ortega, D. Pérez-López, & S. Alonso (2022). **Bias and unfairness of collaborative filtering based recommender systems in MovieLens dataset**, IEEE Access, 10, 68429-68439. \[ [Open Access](https://ieeexplore.ieee.org/abstract/document/9808125) \]
-- Bobadilla, J., Dueñas, J., Gutiérrez, A., & Ortega, F. (2022). **Deep Variational Embedding Representation on Neural Collaborative Filtering Recommender Systems**, Applied Sciences-Basel 12 (9), 4168. \[ [Open Access](https://www.mdpi.com/2076-3417/12/9/4168) | [arXiv preprint](https://arxiv.org/abs/2107.12677) | [Source code](https://github.com/KNODIS-Research-Group/deep-variational-models-for-collaborative-filtering) \]
-- Lara-Cabrera, R., González, A., Ortega, F., & González-Prieto, A. (2022). **Dirichlet Matrix Factorization: A Reliable Classification-Based Recommender System**, Applied Sciences-Basel 12 (3), 1223. \[ [Open Access](https://www.mdpi.com/2076-3417/12/3/1223) | [Source code](https://github.com/KNODIS-Research-Group/DirMF) \]
+- Bobadilla, J., Dueñas, J., Gutiérrez, A., & Ortega, F. (2022). **Deep Variational Embedding Representation on Neural Collaborative Filtering Recommender Systems**, Applied Sciences-Basel 12 (9), 4168. \[ [Open Access](https://www.mdpi.com/2076-3417/12/9/4168) \| [arXiv preprint](https://arxiv.org/abs/2107.12677) \| [Source code](https://github.com/KNODIS-Research-Group/deep-variational-models-for-collaborative-filtering) \]
+- Lara-Cabrera, R., González, A., Ortega, F., & González-Prieto, A. (2022). **Dirichlet Matrix Factorization: A Reliable Classification-Based Recommender System**, Applied Sciences-Basel 12 (3), 1223. \[ [Open Access](https://www.mdpi.com/2076-3417/12/3/1223) \| [Source code](https://github.com/KNODIS-Research-Group/DirMF) \]
 - Bobadilla, J., González-Prieto, Á., Ortega, F., & Lara-Cabrera, R. (2022). **Deep Learning Approach to Obtain Collaborative Filtering Neighborhoods**, Neural Computing and Applications 34, In Press.
 - López-Fernández, D., Gordillo, A., Ortega, F., Yague, A., & Tovar, E. (2021). **LEGO® Serious Play in Software Engineering Education**, IEEE Access 9, 103120-103131.
-- Ortega, F., Lara-Cabrera, R., González-Prieto, A., & Bobadilla, J. (2021). **Providing Reliability in Recommender Systems through Bernoulli Matrix Factorization**, Information Sciences 553, 110-128. \[ [arXiv preprint](https://arxiv.org/abs/2006.03481) | [Source code](https://github.com/ferortega/bernoulli-matrix-factorization) \]
+- Ortega, F., Lara-Cabrera, R., González-Prieto, A., & Bobadilla, J. (2021). **Providing Reliability in Recommender Systems through Bernoulli Matrix Factorization**, Information Sciences 553, 110-128. \[ [arXiv preprint](https://arxiv.org/abs/2006.03481) \| [Source code](https://github.com/ferortega/bernoulli-matrix-factorization) \]
 - Ortega, F., Mayor, J., López-Fernández, D., & Lara-Cabrera, R. (2021). **CF4J 2.0: Adapting Collaborative Filtering for Java to New Challenges of Collaborative Filtering based Recommender Systems**, Knowledge-Based Systems 215, 106629. \[ [Source code](https://github.com/ferortega/cf4j) \]
-- Bobadilla, J., Lara-Cabrera, R., González-Prieto, Á., & Ortega, F. (2021). **DeepFair: Deep Learning for Improving Fairness in Recommender Systems**, International Journal of Interactive Multimedia and Artificial Intelligence 6, 86-94. \[ [Open Access](https://www.ijimai.org/journal/bibcite/reference/2862) | [arXiv preprint](https://arxiv.org/abs/2006.05255) \]
+- Bobadilla, J., Lara-Cabrera, R., González-Prieto, Á., & Ortega, F. (2021). **DeepFair: Deep Learning for Improving Fairness in Recommender Systems**, International Journal of Interactive Multimedia and Artificial Intelligence 6, 86-94. \[ [Open Access](https://www.ijimai.org/journal/bibcite/reference/2862) \| [arXiv preprint](https://arxiv.org/abs/2006.05255) \]
 - Bobadilla, J., González-Prieto, Á., Ortega, F., & Lara-Cabrera, R. (2021). **Deep Learning feature selection to unhide demographic recommender systems factors**, Neural Computing and Applications 33 (12), 7291-7308. \[ [arXiv preprint](https://arxiv.org/abs/2006.12379) \]
 - Pajuelo-Holgera, F., Gómez-Pulido, J.A., & Ortega, F. (2020). **Recommender Systems for Sensor-based Ambient Control in Academic Facilities**, Engineering Applications of Artificial Intelligence Article 96, 103993.
 - Ortega, F., Gonzalez-Prieto, A., Bobadilla. J., & Gutierrez, A. (2020). **Collaborative Filtering to Predict Sensor Array Values in Large IoT Networks**, Sensors 20 (16), 4628. \[ [Open Access](https://www.mdpi.com/1424-8220/20/16/4628) \]
-- Lara-Cabrera, R., González-Prieto, A., & Ortega, F. (2020). **Deep Matrix Factorization approach for Collaborative Filtering Recommender Systems**, Applied Sciences-Basel 10 (14), 4926. \[ [Open Access](https://www.mdpi.com/2076-3417/10/14/4926/htm) | [Source code](https://github.com/ferortega/deep-matrix-factorization) \]
+- Lara-Cabrera, R., González-Prieto, A., & Ortega, F. (2020). **Deep Matrix Factorization approach for Collaborative Filtering Recommender Systems**, Applied Sciences-Basel 10 (14), 4926. \[ [Open Access](https://www.mdpi.com/2076-3417/10/14/4926/htm) \| [Source code](https://github.com/ferortega/deep-matrix-factorization) \]
 - Pajuelo-Holgera, F., Gómez-Pulido, J.A., & Ortega, F. (2020). **Performance of Two Approaches of Embedded Recommender Systems**, Electronics 9 (4), 546.
 - Bobadilla, J., Ortega, F., Gutierrez, A. & Alonso, S. (2020). **Classification-based Deep Neural Network Architecture for Collaborative Filtering Recommender Systems**, International Journal of Interactive Multimedia and Artificial Intelligence 6 (1), 68-77. \[ (Open Access)[https://www.ijimai.org/journal/bibcite/reference/2755] \]
-- Lara-Cabrera, R., González-Prieto, A., Ortega, F., & Bobadilla, J. (2020). **Evolving Matrix Factorization based Collaborative Filtering using Genetic Programming**, Applied Sciences-Basel 10 (2), 675. \[ [Open Access](https://www.mdpi.com/2076-3417/10/2/675) | [Source code](https://github.com/ferortega/evolutionary-matrix-factorization) \]
+- Lara-Cabrera, R., González-Prieto, A., Ortega, F., & Bobadilla, J. (2020). **Evolving Matrix Factorization based Collaborative Filtering using Genetic Programming**, Applied Sciences-Basel 10 (2), 675. \[ [Open Access](https://www.mdpi.com/2076-3417/10/2/675) \| [Source code](https://github.com/ferortega/evolutionary-matrix-factorization) \]
 - Pajuelo-Holgera, F., Gómez-Pulido, J.A., Ortega, F., & Granado-Criado J.M. (2020). **Recommender system implementations for embedded collaborative filtering applications**, Microprocessors and Microsystems 73, .
 - Valdiviezo, P., Ortega, F., Cobos, E., & Lara-Cabrera, R. (2019). **A Collaborative Filtering approach based on Naïve Bayes Classifier**, IEEE Access 7, 108581-108592. \[ [Open Access](https://ieeexplore.ieee.org/document/8787761) \]
 - López-Fernández, D., Raya, L., Ortega, F., & García, J.J. (2019). **Project Based Learning Meets Service Learning on Software Development Education**, International Journal of Engineering Education 35 (5), 1436-1445.
@@ -62,4 +62,4 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 ## Research resources
 
 - [Collaborative Filtering for Java (CF4J)](http://cf4j.etsisi.upm.es/): an object-oriented Java framework designed for the trial and error process for Collaborative Filtering research.
-- [`make_spirals`](https://github.com/KNODIS-Research-Group/make_spirals): a python module to generates a synthetic data set composed of interlaced Archimedean spirals.
+- [make_spirals](https://github.com/KNODIS-Research-Group/make_spirals): a python module to generates a synthetic data set composed of interlaced Archimedean spirals.
