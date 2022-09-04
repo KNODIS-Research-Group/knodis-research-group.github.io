@@ -1,5 +1,3 @@
-# KNODIS research groupthe
-
 ## About us
 
 KNOwledge Discovery & Information Systems (KNODIS) is a research group located at the *Universidad Politécnica de Madrid*. Our area of research focuses on machine learning and data science. More specifically, our research focuses on the sub-areas of recommender systems, deep learning and combinatorial optimization. We have a proven research background with dozens of publications in leading international scientific journals and we work actively with industry to transfer the knowledge resulting from our research to society.
