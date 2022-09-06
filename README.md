@@ -57,6 +57,13 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 
 - **DL-CEGM: Aumento de la calidad y de la equidad, a grupos minoritarios, en las recomendaciones obtenidas mediante filtrado colaborativo basado en técnicas de Deep Learning** (*PID2019-106493RB-I00*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From jun 2020 to may 2023. Principal Investigator: Jesús Bobadilla.
 
+## Thesis
+
+- D. Francisco Pajuelo Holguera. **Sistemas de recomendación basados en filtrado colaborativo: aceleración mediante computación reconfigurable y aplicaciones predictivas sensoriales**. Doctorado en Tecnología Aeroespacial: Ingenierías Electromagnética, Electrónica, Informática y Mecánica (Universidad de Extremadura). Supervisors: Dr. Juan Antonio Gómez-Pulido & Dr. Fernando Ortega. July 2021.
+- D. Remigio Hurtado Ortiz. **Recomendación a grupos de usuarios usando el concepto de singularidades**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: Dr. Jesús Bobadilla & Dr. Fernando Ortega. February 2020.
+- D. Rodolfo Bojorque Chasi. **Clustering de sistemas de recomendación mediante técnicas de factorización matricial**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: Dr. Jesús Bobadilla & Dr. Fernando Ortega. February 2020.
+- Dª. Priscila Marisela Valdiviezo Diaz. **Sistema recomendador híbrido basado en modelos probabilísticos**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: Dr. Jesús Bobadilla & Dr. Antonio Hernando. September 2019.
+
 ## Research resources
 
 - [Collaborative Filtering for Java (CF4J)](http://cf4j.etsisi.upm.es/): an object-oriented Java framework designed for the trial and error process for Collaborative Filtering research.
