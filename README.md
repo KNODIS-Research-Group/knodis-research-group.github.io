@@ -12,7 +12,7 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 - Dr. Santiago Alonso ([santiago.alonso@upm.es](mailto:santiago.alonso@upm.es)) \[ [ORCID](https://orcid.org/0000-0002-0870-7145) \]
 - Dr. Jesús Bobadilla ([jesus.bobadilla@upm.es](mailto:jesus.bobadilla@upm.es)) \[ [ORCID](https://orcid.org/0000-0003-0619-1322) \]
 - Dr. Felix Fuentes ([felix.fuentes@upm.es](mailto:felix.fuentes@upm.es))
-- Dr. Ángel Gónzalez-Prieto ([angelgonzalezprieto@ucm.es](mailto:angelgonzalezprieto@ucm.es)) \[ [ORCID](https://orcid.org/0000-0003-2326-6752) \]
+- Dr. Ángel González-Prieto ([angelgonzalezprieto@ucm.es](mailto:angelgonzalezprieto@ucm.es)) \[ [ORCID](https://orcid.org/0000-0003-2326-6752) \]
 - Dr. Abraham Gutierrez ([abraham.gutierrez@upm.es](mailto:abraham.gutierrez@upm.es)) \[ [ORCID](https://orcid.org/0000-0001-6974-7514) \]
 - Dr. Raúl Lara-Cabrera ([raul.lara@upm.es](mailto:raul.lara@upm.es)) \[ [ORCID](https://orcid.org/0000-0002-7959-1936) \]
 
