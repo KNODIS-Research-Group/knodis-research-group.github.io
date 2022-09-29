@@ -13,7 +13,6 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 ### Research team
 
 - Dr. Santiago Alonso ([santiago.alonso@upm.es](mailto:santiago.alonso@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-0870-7145){:target="_blank"} \]
-- Dr. Jesús Bobadilla ([jesus.bobadilla@upm.es](mailto:jesus.bobadilla@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0003-0619-1322){:target="_blank"} \]
 - Dr. Felix Fuentes ([felix.fuentes@upm.es](mailto:felix.fuentes@upm.es){:target="_blank"})
 - Dr. Ángel González-Prieto ([angelgonzalezprieto@ucm.es](mailto:angelgonzalezprieto@ucm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0003-2326-6752){:target="_blank"} \]
 - Dr. Abraham Gutierrez ([abraham.gutierrez@upm.es](mailto:abraham.gutierrez@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0001-6974-7514){:target="_blank"} \]
