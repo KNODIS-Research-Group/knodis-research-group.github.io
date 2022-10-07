@@ -70,3 +70,5 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 
 - [Collaborative Filtering for Java (CF4J)](http://cf4j.etsisi.upm.es/){:target="_blank"}: an object-oriented Java framework designed for the trial and error process for Collaborative Filtering research.
 - [make_spirals](https://github.com/KNODIS-Research-Group/make_spirals){:target="_blank"}: a python module to generates a synthetic data set composed of interlaced Archimedean spirals.
+
+You can also visit [our organization in GitHub](https://github.com/KNODIS-Research-Group){:target="_blank"}.
