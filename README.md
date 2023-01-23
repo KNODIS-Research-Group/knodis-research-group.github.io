@@ -15,7 +15,6 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 - Dr. Santiago Alonso ([santiago.alonso@upm.es](mailto:santiago.alonso@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-0870-7145){:target="_blank"} \]
 - Dr. Felix Fuentes ([felix.fuentes@upm.es](mailto:felix.fuentes@upm.es){:target="_blank"})
 - Dr. Ángel González-Prieto ([angelgonzalezprieto@ucm.es](mailto:angelgonzalezprieto@ucm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0003-2326-6752){:target="_blank"} \]
-- Dr. Abraham Gutierrez ([abraham.gutierrez@upm.es](mailto:abraham.gutierrez@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0001-6974-7514){:target="_blank"} \]
 - Dr. Raúl Lara-Cabrera ([raul.lara@upm.es](mailto:raul.lara@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-7959-1936){:target="_blank"} \]
 
 ### Students
