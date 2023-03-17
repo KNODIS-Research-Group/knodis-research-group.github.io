@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 - Guillermo Iglesias
 - Diego Pérez-López
 
-## Recent publications
+## Recent publications (last 5 years)
 
 - Bobadilla, J., Ortega, F., González-Prieto, A., & Gutierrez, A. (2022). **Deep Variational Models for Collaborative Filtering-based Recommender Systems**, Neural Computing and Applications, 1-15.  \[ [Open Access](https://link.springer.com/article/10.1007/s00521-022-08088-2){:target="_blank"} \| [Source code](https://github.com/KNODIS-Research-Group/deep-variational-models-for-collaborative-filtering){:target="_blank"} \]
 - A. González, F. Ortega, D. Pérez-López, & S. Alonso (2022). **Bias and unfairness of collaborative filtering based recommender systems in MovieLens dataset**, IEEE Access, 10, 68429-68439. \[ [Open Access](https://ieeexplore.ieee.org/abstract/document/9808125){:target="_blank"} \]
@@ -46,16 +46,6 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 - Valdiviezo, P., Ortega, F., Cobos, E., & Lara-Cabrera, R. (2019). **A Collaborative Filtering approach based on Naïve Bayes Classifier**, IEEE Access 7, 108581-108592. \[ [Open Access](https://ieeexplore.ieee.org/document/8787761){:target="_blank"} \]
 - López-Fernández, D., Raya, L., Ortega, F., & García, J.J. (2019). **Project Based Learning Meets Service Learning on Software Development Education**, International Journal of Engineering Education 35 (5), 1436-1445.
 - Alonso, S., Bobadilla, J., Ortega, F., & Moya, R. (2019). **Robust model-based reliability approach to tackle shilling attacks in collaborative filtering recommender systems**, IEEE Access 7, 41782-41798. \[ [Open Access](https://ieeexplore.ieee.org/abstract/document/8668763){:target="_blank"} \]
-- Hernando, A., Bobadilla, J., Ortega, F., & Gutiérrez, A. (2018). **Method to interactively visualize and navigate related information**, Expert Systems with Applications 111, 61-75.
-- Bobadilla, J., Gutierrez, A., Ortega, F. & Zhu, B. (2018). **Reliability Quality Measures For Recommender Systems**, Information Sciences 442-443, 145-157.
-- Gil, S., Bobadilla, J., Ortega, F. & Zhu, B. (2018). **VisualRS: Java framework for visualization of recommender systems information**, Knowledge-Based Systems 155, 66-70. \[ [Source code](https://github.com/SergioGilBorras/VisualRS){:target="_blank"} \]
-- Zhu, B., Ortega, F., Bobadilla, J. & Gutierrez, A. (2018). **Assigning reliability values to recommendations using matrix factorization**, Journal of Computational Science 26, 165-177.
-- Ortega, F., Zhu, B., Bobadilla, J. & Hernando, A. (2018). **CF4J: Collaborative Filtering for Java**, Knowledge-Based Systems 152, 94-99. \[ [Source code](https://github.com/ferortega/cf4j){:target="_blank"} \]
-- Ortega, F., Bobadilla, J., Gutierrez, A., Hurtado, R., & Li, X. (2018). **Artificial Intelligence Scientific Documentation Dataset for Recommender Systems**, IEEE Access 6, 48543-48555. \[ [Open Access](https://ieeexplore.ieee.org/document/8449912){:target="_blank"} \]
-- Ortega, F., Hurtado, R., Bobadilla, J. & Bojorque, R. (2018). **Recommendation to groups of users using the singularities concept**, IEEE Access 6, 39745-39761. \[ [Open Access](https://ieeexplore.ieee.org/document/8404036){:target="_blank"} \]
-- Zhu, B., Hurtado, R., Bobadilla, J., & Ortega, F. (2018). **An efficient recommender system method based on the numerical relevances and the non-numerical structures of the ratings**, IEEE Access 6, 49935-49954. \[ [Open Access](https://ieeexplore.ieee.org/document/8453781){:target="_blank"} \]
-- Ortega, F., Rojo, D., Valdiviezo, P., & Raya, L. (2018). **Hybrid Collaborative Filtering based on Users Rating Behavior**, IEEE Access 6, 69582-69591. \[ [Open Access](https://ieeexplore.ieee.org/document/8533607){:target="_blank"} \]
-- Hurtado, R., Bobadilla, J., Bojorque, R., Ortega, F., & Li, X. (2018). **A new recommendation approach based on probabilistic soft clustering methods: A scientific documentation case study**, IEEE Access 7, 7522-7534. \[ [Open Access](https://ieeexplore.ieee.org/document/8594540){:target="_blank"} \]
 
 ## Active research projects
 
