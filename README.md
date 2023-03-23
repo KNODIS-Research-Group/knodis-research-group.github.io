@@ -26,6 +26,7 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 
 ## Recent publications (last 5 years)
 
+- Dueñas-Lerín, J., Lara-Cabrera, R., Ortega, F., & Bobadilla, J. (2023). **Neural group recommendation based on a probabilistic semantic aggregation**, Neural Computing and Applications, In press. \[ [arXiv preprint](https://arxiv.org/abs/2303.07001){:target="_blank"} \| [Source code](https://github.com/KNODIS-Research-Group/neural-cf-for-groups){:target="_blank"} \]
 - Bobadilla, J., Ortega, F., González-Prieto, A., & Gutierrez, A. (2022). **Deep Variational Models for Collaborative Filtering-based Recommender Systems**, Neural Computing and Applications, 1-15.  \[ [Open Access](https://link.springer.com/article/10.1007/s00521-022-08088-2){:target="_blank"} \| [Source code](https://github.com/KNODIS-Research-Group/deep-variational-models-for-collaborative-filtering){:target="_blank"} \]
 - A. González, F. Ortega, D. Pérez-López, & S. Alonso (2022). **Bias and unfairness of collaborative filtering based recommender systems in MovieLens dataset**, IEEE Access, 10, 68429-68439. \[ [Open Access](https://ieeexplore.ieee.org/abstract/document/9808125){:target="_blank"} \]
 - Bobadilla, J., Dueñas, J., Gutiérrez, A., & Ortega, F. (2022). **Deep Variational Embedding Representation on Neural Collaborative Filtering Recommender Systems**, Applied Sciences-Basel 12 (9), 4168. \[ [Open Access](https://www.mdpi.com/2076-3417/12/9/4168) \| [arXiv preprint](https://arxiv.org/abs/2107.12677){:target="_blank"}
