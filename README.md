@@ -19,7 +19,6 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 - Dr. Edgar Talavera ([e.talavera@upm.es](mailto:e.talavera@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0001-9480-922X){:target="_blank"} \]
 - Dr. Alberto Díaz-Álvarez ([alberto.diaz@upm.es](mailto:alberto.diaz@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-4150-9052){:target="_blank"} \]
 
-
 ### Students
 
 - Jorge Dueñas
