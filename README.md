@@ -30,10 +30,15 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 
 ### 2024
 
+- González‐Miguéns, R., Cano, E., García‐Gallo Pinto, M., Peña, P. G., Rincón‐Barrado, M., Iglesias, G., ... & Lara, E. (2024). **The voice of the little giants: Arcellinida testate amoebae in environmental DNA‐based bioindication, from taxonomy free to haplotypic level**. Molecular Ecology Resources, e13999.
+- Iglesias, G., Talavera, E., Troya, J., Díaz-Álvarez, A., & García-Remesal, M. (2024). **Artificial intelligence model for tumoral clinical decision support systems**. Computer Methods and Programs in Biomedicine, 253, 108228. \[ [arXiv preprint](https://arxiv.org/html/2301.03701v3){:target="_blank"} \| [Source code](https://purl.com/mocae_brats){:target="_blank"} \]
 - Pérez-López, D., Ortega, F., González-Prieto, A., Dueñas-Lerín, J. (2024). **Incorporating Recklessness to Collaborative Filtering based Recommender Systems**, Information Sciences 679. \[ [arXiv preprint](https://arxiv.org/abs/2308.02058){:target="_blank"} \| [Source code](https://github.com/KNODIS-Research-Group/recklessness-regularization){:target="_blank"} \]
 
 ### 2023
 
+- Gutierrez-Cabello, G. S., Talavera, E., Iglesias, G., Clavijo, M., & Jiménez, F. (2023). **A Novel Method to Generate Auto-Labeled Datasets for 3D Vehicle Identification Using a New Contrast Model**. Applied Sciences, 13(7), 4334. \[ [Preprints.org preprint](https://www.preprints.org/manuscript/202302.0438/v1){:target="_blank"} \]
+- Iglesias, G., Talavera, E., & Díaz-Álvarez, A. (2023). **A survey on GANs for computer vision: Recent research, analysis and taxonomy**. Computer Science Review, 48, 100553. \[ [arXiv preprint](https://arxiv.org/abs/2203.11242){:target="_blank"} \]
+- Iglesias, G., Talavera, E., González-Prieto, Á., Mozo, A., & Gómez-Canaval, S. (2023). **Data augmentation techniques in time series domain: a survey and taxonomy**. Neural Computing and Applications, 35(14), 10123-10145. \[ [arXiv preprint](https://arxiv.org/abs/2206.13508){:target="_blank"} \]
 - Dueñas-Lerín, J., Lara-Cabrera, R., Ortega, F., & Bobadilla, J. (2023). **Neural group recommendation based on a probabilistic semantic aggregation**, Neural Computing and Applications, In press. \[ [arXiv preprint](https://arxiv.org/abs/2303.07001){:target="_blank"} \| [Source code](https://github.com/KNODIS-Research-Group/neural-cf-for-groups){:target="_blank"} \]
 
 ### 2022
