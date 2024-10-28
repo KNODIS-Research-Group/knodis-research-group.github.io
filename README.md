@@ -20,6 +20,8 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 - Dr. Felix Fuentes ([felix.fuentes@upm.es](mailto:felix.fuentes@upm.es){:target="_blank"})
 - Dr. Ángel González-Prieto ([angelgonzalezprieto@ucm.es](mailto:angelgonzalezprieto@ucm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0003-2326-6752){:target="_blank"} \]
 - Dr. Raúl Lara-Cabrera ([raul.lara@upm.es](mailto:raul.lara@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-7959-1936){:target="_blank"} \]
+- Dr. Rodrigo Mariño ([rodrigo.marino@upm.es](mailto:rodrigo.marino@upm.es){:target="_blank"}) \[ [Google 
+Scholar](https://scholar.google.es/citations?user=jY17GykAAAAJ&hl=es){:target="_blank"} \| [ORCID](https://orcid.org/0000-0002-9699-3398){:target="_blank"} \]
 - Dr. Edgar Talavera ([e.talavera@upm.es](mailto:e.talavera@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0001-9480-922X){:target="_blank"} \]
 
 ### Students
