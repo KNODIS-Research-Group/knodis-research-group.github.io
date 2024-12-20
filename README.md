@@ -1,4 +1,4 @@
-![KNODIS Research Group](knodis-logo_original.png)
+![KNODIS Research Group](knodis-logo_horizontal.png)
 
 ## About KNODIS
 
