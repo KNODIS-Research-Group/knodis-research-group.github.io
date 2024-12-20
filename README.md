@@ -15,7 +15,7 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 ### Research team
 
 - Dr. Santiago Alonso ([santiago.alonso@upm.es](mailto:santiago.alonso@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-0870-7145){:target="_blank"} \]
-- Dra. Sandra Arranz Paraiso ([sandraar@ucm.es](mailto:sandraar@ucm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-4246-1089){:target="_blank"} \]
+- Dra. Sandra Arranz Paraiso ([sandra.paraiso@uam.es](mailto:sandra.paraiso@uam.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-4246-1089){:target="_blank"} \]
 - Dra. Gema Bello ([gema.borgaz@upm.es](mailto:gema.borgaz@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0003-2826-3286){:target="_blank"} \]
 - Dr. Alberto Díaz-Álvarez ([alberto.diaz@upm.es](mailto:alberto.diaz@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-4150-9052){:target="_blank"} \]
 - Dr. Jorge Dueñas ([jorge.duenas.lerin@upm.es](mailto:jorge.duenas.lerin@upm.es){:target="_blank"})
