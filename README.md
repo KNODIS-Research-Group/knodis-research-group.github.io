@@ -8,9 +8,7 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 
 ### Research group leader
 - Dr. Fernando Ortega 
-([fernando.ortega@upm.es](mailto:fernando.ortega@upm.es)) \[ [Google 
-Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="_blank"} \| 
-[ORCID](https://orcid.org/0000-0003-4765-1479){:target="_blank"} \]
+([fernando.ortega@upm.es](mailto:fernando.ortega@upm.es)) \[ [Google Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="_blank"} \| [ORCID](https://orcid.org/0000-0003-4765-1479){:target="_blank"} \]
 
 ### Research team
 
@@ -21,14 +19,13 @@ Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="
 - Dr. Jorge Dueñas ([jorge.duenas.lerin@upm.es](mailto:jorge.duenas.lerin@upm.es){:target="_blank"})
 - Dr. Felix Fuentes ([felix.fuentes@upm.es](mailto:felix.fuentes@upm.es){:target="_blank"})
 - Dr. Ángel González-Prieto ([angelgonzalezprieto@ucm.es](mailto:angelgonzalezprieto@ucm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0003-2326-6752){:target="_blank"} \]
-- Dr. Raúl Lara-Cabrera ([raul.lara@upm.es](mailto:raul.lara@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0002-7959-1936){:target="_blank"} \]
-- Dr. Rodrigo Mariño ([rodrigo.marino@upm.es](mailto:rodrigo.marino@upm.es){:target="_blank"}) \[ [Google 
-Scholar](https://scholar.google.es/citations?user=jY17GykAAAAJ&hl=es){:target="_blank"} \| [ORCID](https://orcid.org/0000-0002-9699-3398){:target="_blank"} \]
+- Dr. Guillermo Iglesias ([guillermo.iglesias@upm.es](mailto:guillermo.iglesias@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0001-8733-7148){:target="_blank"} \]
+- Dr. Raúl Lara-Cabrera ([raul.lara@upm.es](mailto:raul.lara@upm.es){:target="_blank"}) \[ [Google Scholar](https://scholar.google.com/citations?user=WNO0uTwAAAAJ){:target="_blank"} \| [ORCID](https://orcid.org/0000-0002-7959-1936){:target="_blank"} \]
+- Dr. Rodrigo Mariño ([rodrigo.marino@upm.es](mailto:rodrigo.marino@upm.es){:target="_blank"}) \[ [Google Scholar](https://scholar.google.es/citations?user=jY17GykAAAAJ&hl=es){:target="_blank"} \| [ORCID](https://orcid.org/0000-0002-9699-3398){:target="_blank"} \]
 - Dr. Edgar Talavera ([e.talavera@upm.es](mailto:e.talavera@upm.es){:target="_blank"}) \[ [ORCID](https://orcid.org/0000-0001-9480-922X){:target="_blank"} \]
 
 ### Students
 
-- Guillermo Iglesias
 - Diego Pérez-López
 
 ## Recent publications (last 5 years)
