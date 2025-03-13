@@ -26,6 +26,7 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 
 ### Students
 
+- Víctor Ramos Osuna
 - Diego Pérez-López
 
 ## Recent publications (last 5 years)
