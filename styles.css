@@ -10,13 +10,15 @@ body {
   line-height: 1.6;
   background-color: #f9f9f9;
   color: #333;
-  padding: 0 1rem;
+  text-align: justify;
 }
 
+/* Cabecera */
 header {
+  width: 100%;
   background-color: #003366;
   color: #fff;
-  padding: 1.5rem 1rem;
+  padding: 0.8rem 1rem;
   display: flex;
   align-items: center;
   justify-content: start;
@@ -36,7 +38,7 @@ header h1 {
 /* Contenedor principal */
 main {
   max-width: 1000px;
-  margin: 2rem auto;
+  margin: 0 auto;
   padding: 1rem;
   background-color: #fff;
   border-radius: 10px;
@@ -86,7 +88,7 @@ main > p:first-child {
 }
 
 main img {
-  max-width: 50%;
+  max-width: 40%;
   height: auto;
 }
 
