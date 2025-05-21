@@ -1,4 +1,6 @@
-remote_theme: riggraz/no-style-please
+theme: null
+markdown: kramdown
+plugins: []
 title: KNODIS research group
 author: KNODIS
 email: gi.knodis@upm.es
