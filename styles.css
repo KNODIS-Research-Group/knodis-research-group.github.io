@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
@@ -160,6 +164,31 @@ footer img {
   height: 100px;
 }
 
+/*botón back to top*/
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: #1A253A;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  text-decoration: none;
+  z-index: 1000;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.back-to-top:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+
 /*Responsive: colapsar nav en móvil (menu hamburguesa)*/
 
 @media (max-width: 850px) {
@@ -204,3 +233,9 @@ footer img {
     color: #1A253A;
   }
 }
+
+
+/*
+CAMBIAR TEXTO POR LOGOS DE ORCID Y GOOGLE SCHOLAR
+VER SI ES VIABLE MONTAR VARIAS PAGINAS
+*/
