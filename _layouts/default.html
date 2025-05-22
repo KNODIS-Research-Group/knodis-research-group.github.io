@@ -6,21 +6,31 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  
   <header>
-    <h1>KNODIS Research Group</h1>
+    <div class="branding">
+      <img src="knodis-logo_minimo.png" alt="KNODIS logo"/>
+      <h1>Knodis Research Group</h1>
+    </div>
+    <input type="checkbox" id="menu-toggle"/>
+    <label for="menu-toggle" class="menu-icon">&#9776;</label>
     <nav>
       <ul>
-        <li><a href="#about-knodis">About</a></li>
+        <li><a href="#about">About</a></li>
         <li><a href="#members">Members</a></li>
-        <li><a href="#recent-publications-last-5-years">Publications</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#projects">Projects</a></li>
       </ul>
     </nav>
   </header>
+  
   <main>
     {{ content }}
   </main>
+  
   <footer>
-    2025 KNODIS Research Group. Universidad Politécnica de Madrid.
+    <p>2025 KNODIS Research Group. Universidad Politécnica de Madrid.</p>
   </footer>
+  
 </body>
 </html>
