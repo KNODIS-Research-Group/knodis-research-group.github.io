@@ -12,7 +12,9 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 
 ### Research group leader
 - Dr. Fernando Ortega 
-([fernando.ortega@upm.es](mailto:fernando.ortega@upm.es)) \[ [Google Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en){:target="_blank"} \| [ORCID](https://orcid.org/0000-0003-4765-1479){:target="_blank"} \]
+([fernando.ortega@upm.es](mailto:fernando.ortega@upm.es))
+  - [Google Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en)
+  - [ORCID](https://orcid.org/0000-0003-4765-1479)
 
 ### Research team
 
