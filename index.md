@@ -2,7 +2,7 @@
 layout: default
 title: KNODIS Research Group
 ---
-![KNODIS Research Group](knodis-logo_horizontal.png)
+![KNODIS Research Group](knodis-logo_original.png)
 
 ## About KNODIS
 
