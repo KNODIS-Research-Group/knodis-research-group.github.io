@@ -23,12 +23,13 @@ header {
   background-color: #1A253A;
   color: white;
   border-bottom: 2px solid #A6C720;
-  padding: 0.8rem 1rem;
+  padding: 0.6rem 1rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  position: relative;
+  position: fixed;
+  z-index: 1000;
 }
 
 /* logo + título */
@@ -66,12 +67,17 @@ nav ul {
   align-items: center;
   list-style: none;
   padding-left: 0;
-  margin: 0.5rem 0 0 0;
+  margin: 0rem 0 0 0;
+}
+
+/* Evitar que el header tape los titulos de las secciones al usar el nav */
+[id] {
+  scroll-margin-top: 70px;
 }
 
 nav li {
-  margin: 0 0.5rem;
-  border-bottom: 1px solid #A6C720;
+  margin: 0 0.8rem;
+  border-bottom: 1px #A6C720;
 }
 
 nav a {
@@ -80,19 +86,19 @@ nav a {
 }
 
 nav li:hover {
-border-bottom: 1px solid white;
+  border-bottom: 1px solid white;
 }
 
 nav a:hover {
-text-decoration: none;
-color: #A6C720;
+  text-decoration: none;
+  color: #A6C720;
 }
 
 /* Contenedor principal */
 main {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding-top: 1rem;
+  padding-top: 5rem;
   padding-bottom: 3rem;
   padding-left: 4rem;
   padding-right: 4rem;
@@ -105,9 +111,9 @@ main {
 main img {
   display: block;
   margin: 0 auto 2rem;
-  max-width: 40%;
+  max-width: 30%;
+  min-width: 250px;
   height: auto;
-  padding-top: 20px;
 }
 
 /* formato del contenido */
@@ -146,6 +152,127 @@ strong {
   color: #000;
 }
 
+/* Eliminar bullets y ajustar indentación */
+ul ul {
+  list-style: none;
+  padding-left: 1.5em;
+}
+
+ul ul li {
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: 0.4em;
+}
+
+ul ul li::before {
+  display: inline-block;
+  width: 1.5em;
+  margin-right: 0.5em;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Google Scholar */
+ul ul li:has(a[href*="scholar.google.com"])::before {
+  content: "\f19d"; 
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* ORCID */
+ul ul li:has(a[href*="orcid.org"])::before {
+  content: "\f8d2";
+  font-family: "Font Awesome 6 Brands";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* Arxiv */
+ul ul li:has(a[href*="arxiv.org"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* Purl */
+ul ul li:has(a[href*="purl.com"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* Github */
+ul ul li:has(a[href*="github.com"])::before {
+  content: "\f09b";
+  font-family: "Font Awesome 6 Brands";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* preprints */
+ul ul li:has(a[href*="preprints.org"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* link.springer */
+ul ul li:has(a[href*="link.springer.com"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* ieeexplore.ieee.org */
+ul ul li:has(a[href*="ieeexplore.ieee.org"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* mdpi.com */
+ul ul li:has(a[href*="mdpi.com"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* ijimai.org */
+ul ul li:has(a[href*="ijimai.org"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
 /* Pie de página */
 footer {
   display: flex;
@@ -179,7 +306,6 @@ footer img {
   justify-content: center;
   border-radius: 50%;
   text-decoration: none;
-  z-index: 1000;
   opacity: 0.8;
   transition: opacity 0.3s ease;
 }
@@ -191,7 +317,7 @@ footer img {
 
 /*Responsive: colapsar nav en móvil (menu hamburguesa)*/
 
-@media (max-width: 850px) {
+@media (max-width: 768px) , (orientation: portrait) {
   .menu-icon {
     display: block;
   }
@@ -233,9 +359,3 @@ footer img {
     color: #1A253A;
   }
 }
-
-
-/*
-CAMBIAR TEXTO POR LOGOS DE ORCID Y GOOGLE SCHOLAR
-VER SI ES VIABLE MONTAR VARIAS PAGINAS
-*/
