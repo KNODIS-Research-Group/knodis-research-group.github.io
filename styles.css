@@ -358,4 +358,15 @@ footer img {
     text-decoration: none;
     color: #1A253A;
   }
+
+  main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  background-color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
 }
