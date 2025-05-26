@@ -7,7 +7,7 @@
   <link rel="icon" href="knodis-logo-vector_minimo.png" type="image/png">
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-  <!--Cerrar menu hamburguesa al seleccionar opcion cuando se usa media query-->
+    <!--Cerrar menu hamburguesa al seleccionar opcion cuando se usa media query-->
   <script defer>
     document.addEventListener("DOMContentLoaded", function () {
       const menuToggle = document.getElementById("menu-toggle");
@@ -26,21 +26,21 @@
 </head>
 <body>
   <header>
-    <div class="logotitle">
+    <div class="logoynav">
       <img src="knodis-logo-vector_horizontal_n.png" alt="KNODIS logo"/>
+      <input type="checkbox" id="menu-toggle"/>
+      <label for="menu-toggle" class="menu-icon">&#9776;</label>
+      <nav class="nav">
+        <ul>
+          <li><a href="#about-knodis">About</a></li>
+         <li><a href="#members">Members</a></li>
+          <li><a href="#recent-publications-last-5-years">Publications</a></li>
+         <li><a href="#active-research-projects">Projects</a></li>
+         <li><a href="#thesis">Thesis</a></li>
+         <li><a href="#research-resources">Resources</a></li>
+         </ul>
+      </nav>
     </div>
-    <input type="checkbox" id="menu-toggle"/>
-    <label for="menu-toggle" class="menu-icon">&#9776;</label>
-    <nav>
-      <ul>
-        <li><a href="#about-knodis">About</a></li>
-        <li><a href="#members">Members</a></li>
-        <li><a href="#recent-publications-last-5-years">Publications</a></li>
-        <li><a href="#active-research-projects">Projects</a></li>
-        <li><a href="#thesis">Thesis</a></li>
-        <li><a href="#research-resources">Resources</a></li>
-      </ul>
-    </nav>
   </header>
   
   <main>
