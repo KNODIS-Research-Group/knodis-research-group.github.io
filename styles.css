@@ -14,38 +14,59 @@ body {
   line-height: 1.6;
   background-color: #f5f5f5;
   color: #333;
-  text-align: justify;
 }
 
 /* Cabecera */
 header {
   width: 100%;
+  display: flex;
+  justify-content: center;
   background-color: #1A253A;
-  color: white;
   border-bottom: 2px solid #A6C720;
   padding: 0.6rem 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
   position: fixed;
   z-index: 1000;
 }
 
-/* logo + título */
-.logotitle {
+/* logo + nav */
+.logoynav {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px;
 }
 
-.logotitle img {
+.logoynav img {
   height: 40px;
 }
 
-.logotitle h1 {
-  font-size: 1.5rem;
-  margin: 0;
+div nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 0 0;
+}
+
+div nav li {
+  margin: 0 0 0 2rem;
+}
+
+div nav a {
+  color: white;
+  text-decoration: none;
+}
+
+div nav a:hover {
+  text-decoration: none;
+  color: #A6C720;
+}
+
+/* Evitar que el header tape los titulos de las secciones al usar el nav */
+[id] {
+  scroll-margin-top: 70px;
 }
 
 /* Ocultar el checkbox */
@@ -58,40 +79,7 @@ header {
   display: none;
   font-size: 2rem;
   cursor: pointer;
-}
-
-/* Menú horizontal */
-nav ul {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  list-style: none;
-  padding-left: 0;
-  margin: 0rem 0 0 0;
-}
-
-/* Evitar que el header tape los titulos de las secciones al usar el nav */
-[id] {
-  scroll-margin-top: 70px;
-}
-
-nav li {
-  margin: 0 0.8rem;
-  border-bottom: 1px #A6C720;
-}
-
-nav a {
   color: white;
-  text-decoration: none;
-}
-
-nav li:hover {
-  border-bottom: 1px solid white;
-}
-
-nav a:hover {
-  text-decoration: none;
-  color: #A6C720;
 }
 
 /* Contenedor principal */
@@ -103,7 +91,6 @@ main {
   padding-left: 4rem;
   padding-right: 4rem;
   background-color: white;
-  border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
@@ -153,23 +140,22 @@ strong {
 }
 
 /* Eliminar bullets y ajustar indentación */
-ul ul {
+
+ul {
   list-style: none;
-  padding-left: 1.5em;
+}
+
+ul ul {
+  display: flex;
+  list-style: none;
+  padding-left: 0em;
+  gap: 20px;
 }
 
 ul ul li {
   position: relative;
   padding-left: 1.5em;
   margin-bottom: 0.4em;
-}
-
-ul ul li::before {
-  display: inline-block;
-  width: 1.5em;
-  margin-right: 0.5em;
-  text-align: center;
-  vertical-align: middle;
 }
 
 /* Google Scholar */
@@ -322,7 +308,7 @@ footer img {
     display: block;
   }
 
-  nav {
+  div nav {
     position: absolute;
     top: 100%;
     right: 0;
@@ -331,7 +317,7 @@ footer img {
     display: none;
   }
 
-  nav ul {
+  div nav ul {
     flex-direction: column;
     padding: 1rem;
     gap: 1rem;
@@ -341,24 +327,21 @@ footer img {
     display: block;
   }
 
-  nav li {
+  div nav li {
     margin: 0.2rem 0;
   }
 
-  nav a {
+  div nav a {
     color: #1A253A;
     text-decoration: none;
   }
 
-  nav li:hover {
-    border-bottom: 1px solid white;
-  }
-
-  nav a:hover {
+  div nav a:hover {
     text-decoration: none;
     color: #1A253A;
+    font-weight: 500;
   }
-
+  
   main {
   max-width: 1200px;
   margin: 0 auto;
