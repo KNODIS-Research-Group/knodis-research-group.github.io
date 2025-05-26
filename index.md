@@ -131,5 +131,4 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 
 - [Collaborative Filtering for Java (CF4J)](http://cf4j.etsisi.upm.es/){:target="_blank"}: an object-oriented Java framework designed for the trial and error process for Collaborative Filtering research.
 - [make_spirals](https://github.com/KNODIS-Research-Group/make_spirals){:target="_blank"}: a python module to generates a synthetic data set composed of interlaced Archimedean spirals.
-
-You can also visit [our organization in GitHub](https://github.com/KNODIS-Research-Group){:target="_blank"}.
+- You can also visit [our organization in GitHub](https://github.com/KNODIS-Research-Group){:target="_blank"}.
