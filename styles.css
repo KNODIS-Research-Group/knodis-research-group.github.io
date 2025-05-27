@@ -1,0 +1,353 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+  line-height: 1.6;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+/* Cabecera */
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #1A253A;
+  border-bottom: 2px solid #A6C720;
+  padding: 0.6rem 1rem;
+  position: fixed;
+  z-index: 1000;
+}
+
+/* logo + nav */
+.logoynav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.logoynav img {
+  height: 40px;
+}
+
+div nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 0 0;
+}
+
+div nav li {
+  margin: 0 0 0 2rem;
+}
+
+div nav a {
+  color: white;
+  text-decoration: none;
+}
+
+div nav a:hover {
+  text-decoration: none;
+  color: #A6C720;
+}
+
+/* Evitar que el header tape los titulos de las secciones al usar el nav */
+[id] {
+  scroll-margin-top: 70px;
+}
+
+/* Ocultar el checkbox del menú hamburguesa */
+#menu-toggle {
+  display: none;
+}
+
+/* Estilo hamburguesa */
+.menu-icon {
+  display: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: white;
+}
+
+/* Contenedor principal */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  background-color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* logo centrado */
+main img {
+  display: block;
+  margin: 0 auto;
+  max-width: 30%;
+  min-width: 250px;
+  height: auto;
+  margin-bottom: -2rem;
+}
+
+/* formato del contenido */
+h2 {
+  color: #1A253A;
+  border-bottom: 2px solid #A6C720;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem; 
+  margin-bottom: 0.5rem; /* Distancia a elementos tras H2*/
+}
+
+h3 {
+  color: #009EE3;
+  margin-bottom: 0rem; /* Distancia a elementos tras H3*/
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0rem;
+}
+
+li {
+  margin-bottom: 2rem; /* Distancia entre elementos lista*/
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+strong {
+  color: #000;
+  font-weight: 500;
+}
+
+ul ul {
+  display: flex;
+  list-style: none;
+  padding-left: 0em;
+  gap: 2rem;
+  
+}
+
+ul ul li {
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: 0rem;
+}
+
+/* Google Scholar */
+ul ul li:has(a[href*="scholar.google.com"])::before {
+  content: "\f19d"; 
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* ORCID */
+ul ul li:has(a[href*="orcid.org"])::before {
+  content: "\f8d2";
+  font-family: "Font Awesome 6 Brands";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* Arxiv */
+ul ul li:has(a[href*="arxiv.org"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* Purl */
+ul ul li:has(a[href*="purl.com"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* Github */
+ul ul li:has(a[href*="github.com"])::before {
+  content: "\f09b";
+  font-family: "Font Awesome 6 Brands";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* preprints */
+ul ul li:has(a[href*="preprints.org"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* link.springer */
+ul ul li:has(a[href*="link.springer.com"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* ieeexplore.ieee.org */
+ul ul li:has(a[href*="ieeexplore.ieee.org"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* mdpi.com */
+ul ul li:has(a[href*="mdpi.com"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* ijimai.org */
+ul ul li:has(a[href*="ijimai.org"])::before {
+  content: "\f15c";
+  font-family: "Font Awesome 6 Free";
+  position: absolute;
+  left: 0;
+  top: 0.1em;
+  color: #1A253A;
+}
+
+/* Pie de página */
+footer {
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  margin-top: -1.5rem;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  background-color: #1A253A;
+  color: white;
+  border-top: 2px solid #A6C720;
+}
+
+footer img {
+  height: 100px;
+}
+
+/*botón back to top*/
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: #1A253A;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  text-decoration: none;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.back-to-top:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+
+/*Responsive: colapsar nav en móvil (menu hamburguesa)*/
+
+@media (max-width: 768px) , (orientation: portrait) {
+  .menu-icon {
+    display: block;
+  }
+
+  div nav {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #A6C720;
+    width: 100%;
+    display: none;
+  }
+
+  div nav ul {
+    flex-direction: column;
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  #menu-toggle:checked + .menu-icon + nav {
+    display: block;
+  }
+
+  div nav li {
+    margin: 0.2rem 0;
+  }
+
+  div nav a {
+    color: #1A253A;
+    text-decoration: none;
+  }
+
+  div nav a:hover {
+    text-decoration: none;
+    color: #1A253A;
+    font-weight: 500;
+  }
+  
+  main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  background-color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  }
+}
