@@ -6,7 +6,8 @@ title: KNODIS Research Group
 
 ## About KNODIS
 
-KNOwledge Discovery & Information Systems (KNODIS) is a research group located at the *Universidad Politécnica de Madrid*. Our area of research focuses on machine learning and data science. More specifically, our research focuses on the sub-areas of recommender systems, deep learning and combinatorial optimization. In addition, given the teaching nature of the university, we are involved in various educational innovation projects. We have a proven research background with dozens of publications in leading international scientific journals and we work actively with industry to transfer the knowledge resulting from our research to society.
+KNOwledge Discovery & Information Systems (KNODIS) is a research group located at the *Universidad Politécnica de Madrid*. Our area of research focuses on machine learning and data science. More specifically, our research focuses on the sub-areas of recommender systems, deep learning and combinatorial optimization.\
+In addition, given the teaching nature of the university, we are involved in various educational innovation projects. We have a proven research background with dozens of publications in leading international scientific journals and we work actively with industry to transfer the knowledge resulting from our research to society.
 
 ## Members
 
@@ -129,6 +130,6 @@ KNOwledge Discovery & Information Systems (KNODIS) is a research group located a
 
 ## Research resources
 
-[Collaborative Filtering for Java (CF4J)](http://cf4j.etsisi.upm.es/){:target="_blank"}: an object-oriented Java framework designed for the trial and error process for Collaborative Filtering research.
-[make_spirals](https://github.com/KNODIS-Research-Group/make_spirals){:target="_blank"}: a python module to generates a synthetic data set composed of interlaced Archimedean spirals.
+[Collaborative Filtering for Java (CF4J)](http://cf4j.etsisi.upm.es/){:target="_blank"}: an object-oriented Java framework designed for the trial and error process for Collaborative Filtering research.\
+[make_spirals](https://github.com/KNODIS-Research-Group/make_spirals){:target="_blank"}: a python module to generates a synthetic data set composed of interlaced Archimedean spirals.\
 You can also visit [our organization in GitHub](https://github.com/KNODIS-Research-Group){:target="_blank"}.
