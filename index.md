@@ -6,7 +6,15 @@ title: KNODIS Research Group
 
 ## About KNODIS
 
-KNOwledge Discovery & Information Systems (KNODIS) is a research group located at the *Universidad Politécnica de Madrid*. Our area of research focuses on machine learning and data science. More specifically, our research focuses on the sub-areas of recommender systems, deep learning and combinatorial optimization. In addition, given the teaching nature of the university, we are involved in various educational innovation projects. We have a proven research background with dozens of publications in leading international scientific journals and we work actively with industry to transfer the knowledge resulting from our research to society.
+KNOwledge Discovery & Information Systems (KNODIS) is a research group based at the Universidad Politécnica de Madrid (UPM). Our research lies at the intersection of machine learning and data science, with a strong focus on both theoretical foundations and applied solutions that address real-world challenges.
+
+Within this broad domain, our core lines of work include recommender systems, where we develop algorithms to personalize user experiences; deep learning, where we explore neural architectures for complex data representations; and combinatorial optimization, where we design intelligent techniques to solve high-dimensional and computationally hard problems efficiently. These areas are not only fundamental in artificial intelligence but also highly impactful across industries such as e-commerce, healthcare, logistics, and education.
+
+Given our university's commitment to teaching excellence, KNODIS is also deeply engaged in educational innovation. We actively participate in the design and implementation of new methodologies and tools to improve teaching and learning processes, particularly in technology and engineering education.
+
+KNODIS has a strong and sustained research trajectory, with dozens of peer-reviewed publications in leading international journals and conferences. Our members frequently collaborate with other academic institutions and participate in national and European research projects. We also maintain an active and ongoing collaboration with industry partners, promoting the transfer of knowledge and technology to solve practical problems and create societal value.
+
+Through this blend of cutting-edge research, innovation in teaching, and industrial collaboration, KNODIS contributes to the advancement of artificial intelligence while fostering the development of skilled professionals and impactful technological solutions.
 
 ## Members
 
