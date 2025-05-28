@@ -23,7 +23,7 @@ header {
   justify-content: center;
   background-color: #1A253A;
   border-bottom: 2px solid #A6C720;
-  padding: 0.6rem 1rem;
+  padding: 0.6rem 0rem;
   position: fixed;
   z-index: 1000;
 }
@@ -35,6 +35,8 @@ header {
   justify-content: space-between;
   width: 100%;
   max-width: 1200px;
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
 
 .logoynav img {
@@ -101,21 +103,25 @@ main img {
   max-width: 30%;
   min-width: 250px;
   height: auto;
-  margin-bottom: -2rem;
+  margin-bottom: -3rem;
 }
 
 /* formato del contenido */
+p {
+  margin-bottom: 1rem;
+}
+
 h2 {
   color: #1A253A;
   border-bottom: 2px solid #A6C720;
   padding-bottom: 0.3rem;
   margin-top: 2rem; 
-  margin-bottom: 0.5rem; /* Distancia a elementos tras H2*/
+  margin-bottom: 1rem; /* Distancia a elementos tras H2*/
 }
 
 h3 {
   color: #009EE3;
-  margin-bottom: 0rem; /* Distancia a elementos tras H3*/
+  margin-bottom: 1rem; /* Distancia a elementos tras H3*/
 }
 
 ul {
@@ -125,7 +131,7 @@ ul {
 }
 
 li {
-  margin-bottom: 2rem; /* Distancia entre elementos lista*/
+  margin-bottom: 1rem; /* Distancia entre elementos lista*/
 }
 
 a {
@@ -345,9 +351,21 @@ footer img {
   margin: 0 auto;
   padding-top: 5rem;
   padding-bottom: 3rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   background-color: white;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  }
+
+  /* logo + nav */
+  .logoynav {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  /* logo centrado */
+  main img {
+    margin-top: 3rem;
+    margin-bottom: 0rem;
   }
 }
