@@ -129,7 +129,6 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 - D. Francisco Pajuelo Holguera. **Sistemas de recomendación basados en filtrado colaborativo: aceleración mediante computación reconfigurable y aplicaciones predictivas sensoriales**. Doctorado en Tecnología Aeroespacial: Ingenierías Electromagnética, Electrónica, Informática y Mecánica (Universidad de Extremadura). Supervisors: Dr. Juan Antonio Gómez-Pulido & Dr. Fernando Ortega. July 2021.
 - D. Remigio Hurtado Ortiz. **Recomendación a grupos de usuarios usando el concepto de singularidades**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: Dr. Jesús Bobadilla & Dr. Fernando Ortega. February 2020.
 - D. Rodolfo Bojorque Chasi. **Clustering de sistemas de recomendación mediante técnicas de factorización matricial**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: Dr. Jesús Bobadilla & Dr. Fernando Ortega. February 2020.
-- Dª. Priscila Marisela Valdiviezo Diaz. **Sistema recomendador híbrido basado en modelos probabilísticos**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: Dr. Jesús Bobadilla & Dr. Antonio Hernando. September 2019.
 
 ## Research resources
 
