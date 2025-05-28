@@ -125,7 +125,8 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 
 ## Active research projects
 
-- **DL-CEGM: Aumento de la calidad y de la equidad, a grupos minoritarios, en las recomendaciones obtenidas mediante filtrado colaborativo basado en técnicas de Deep Learning** (*PID2019-106493RB-I00*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From jun 2020 to may 2023. Principal Investigator: Jesús Bobadilla.
+<!-- - **DL-CEGM: Aumento de la calidad y de la equidad, a grupos minoritarios, en las recomendaciones obtenidas mediante filtrado colaborativo basado en técnicas de Deep Learning** (*PID2019-106493RB-I00*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From jun 2020 to may 2023. Principal Investigator: Jesús Bobadilla. -->
+- **ALENTAR-J-CM: Aplicación de modelos del LENguaje a gran escala para la prevención sociosaniTAria de problemas de salud mental y Riesgo de suicidio en Jóvenes** (*TEC-2024/COM-224*). Project funded by *Comunidad de Madrid, Consejería de Educación, Ciencia y Universidades*. From jan 2025 to dec 2028. Principal Investigator: Raúl Lara-Cabrera.
 
 ## Thesis
 
