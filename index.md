@@ -60,7 +60,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 ### 2025
 - Pérez-López D., Bojorque, R., Dueñas-Lerín, J., & Ortega, F. **Deep Learning based Stacking for Recommender Systems**, 10th International Conference on Information and Communication Technology for Recommender Systems (ICTIS 2025) (New York, USA).
 - Dueñas-Lerín, J., Lara-Cabrera, R., Ortega, F., & Bobadilla, J. (2025). **Deep neural aggregation for recommending items to group of users**, Applied Soft Computing 175, 113059.
-  - [arXiv preprint](https://arxiv.org/abs/2307.09447))
+  - [arXiv preprint](https://arxiv.org/abs/2307.09447)
   - [Source code](https://github.com/KNODIS-Research-Group/dl-cf-groups-deep-aggregation)
 - Iglesias, G., Zamorano, M., & Sarro, F. (2025). **Search-Based Negative Prompt Optimisation for Text-to-Image Generation**. International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar), pp. 94-110.
 
@@ -69,7 +69,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 - Mazón, M. J. C., García, R. M., García, E. A., del Castillo, M. H. G., & Iglesias, G. (2024). **Binary Classification Optimisation with AI-Generated Data**. IFIP International Conference on Testing Software and Systems (pp. 210-216).
   - [Source code](https://github.com/Ekaitz723/Skin-lesion-clasif-GDA)
 - González‐Miguéns, R., Cano, E., García‐Gallo Pinto, M., Peña, P. G., Rincón‐Barrado, M., Iglesias, G., ... & Lara, E. (2024). **The voice of the little giants: Arcellinida testate amoebae in environmental DNA‐based bioindication, from taxonomy free to haplotypic level**. Molecular Ecology Resources, e13999.
-  - [Open Access](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13999))
+  - [Open Access](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13999)
 - Iglesias, G., Talavera, E., Troya, J., Díaz-Álvarez, A., & García-Remesal, M. (2024). **Artificial intelligence model for tumoral clinical decision support systems**. Computer Methods and Programs in Biomedicine, 253, 108228.
   - [arXiv preprint](https://arxiv.org/html/2301.03701v3)
   - [Source code](https://purl.com/mocae_brats)
