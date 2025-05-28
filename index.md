@@ -118,21 +118,6 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
   - [arXiv preprint](https://arxiv.org/abs/2006.12379)
 - Pajuelo-Holgera, F., Gómez-Pulido, J.A., & Ortega, F. (2020). **Recommender Systems for Sensor-based Ambient Control in Academic Facilities**, Engineering Applications of Artificial Intelligence Article 96, 103993.
 
-### 2020
-
-- Ortega, F., Gonzalez-Prieto, A., Bobadilla. J., & Gutierrez, A. (2020). **Collaborative Filtering to Predict Sensor Array Values in Large IoT Networks**, Sensors 20 (16), 4628.
-  - [Open Access](https://www.mdpi.com/1424-8220/20/16/4628)
-- Lara-Cabrera, R., González-Prieto, A., & Ortega, F. (2020). **Deep Matrix Factorization approach for Collaborative Filtering Recommender Systems**, Applied Sciences-Basel 10 (14), 4926.
-  - [Open Access](https://www.mdpi.com/2076-3417/10/14/4926/htm)
-  - [Source code](https://github.com/ferortega/deep-matrix-factorization)
-- Pajuelo-Holgera, F., Gómez-Pulido, J.A., & Ortega, F. (2020). **Performance of Two Approaches of Embedded Recommender Systems**, Electronics 9 (4), 546.
-- Bobadilla, J., Ortega, F., Gutierrez, A. & Alonso, S. (2020). **Classification-based Deep Neural Network Architecture for Collaborative Filtering Recommender Systems**, International Journal of Interactive Multimedia and Artificial Intelligence 6 (1), 68-77.
-  - [Open Access](https://www.ijimai.org/journal/bibcite/reference/2755)
-- Lara-Cabrera, R., González-Prieto, A., Ortega, F., & Bobadilla, J. (2020). **Evolving Matrix Factorization based Collaborative Filtering using Genetic Programming**, Applied Sciences-Basel 10 (2), 675.
-  - [Open Access](https://www.mdpi.com/2076-3417/10/2/675)
-  - [Source code](https://github.com/ferortega/evolutionary-matrix-factorization)
-- Pajuelo-Holgera, F., Gómez-Pulido, J.A., Ortega, F., & Granado-Criado J.M. (2020). **Recommender system implementations for embedded collaborative filtering applications**, Microprocessors and Microsystems 73, .
-
 ## Active research projects
 
 <!-- - **DL-CEGM: Aumento de la calidad y de la equidad, a grupos minoritarios, en las recomendaciones obtenidas mediante filtrado colaborativo basado en técnicas de Deep Learning** (*PID2019-106493RB-I00*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From jun 2020 to may 2023. Principal Investigator: Jesús Bobadilla. -->
