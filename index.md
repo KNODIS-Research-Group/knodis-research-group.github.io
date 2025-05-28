@@ -58,6 +58,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 ## Recent publications (last 5 years)
 
 ### 2025
+- Pérez-López D., Bojorque, R., Dueñas-Lerín, J., & Ortega, F. **Deep Learning based Stacking for Recommender Systems**, 10th International Conference on Information and Communication Technology for Recommender Systems (ICTIS 2025) (New York, USA).
 - Dueñas-Lerín, J., Lara-Cabrera, R., Ortega, F., & Bobadilla, J. (2025). **Deep neural aggregation for recommending items to group of users**, Applied Soft Computing 175, 113059.
   - [arXiv preprint](https://arxiv.org/abs/2307.09447))
   - [Source code](https://github.com/KNODIS-Research-Group/dl-cf-groups-deep-aggregation)
