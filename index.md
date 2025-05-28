@@ -39,6 +39,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 - Dr. Ángel González-Prieto ([angelgonzalezprieto@ucm.es](mailto:angelgonzalezprieto@ucm.es))
   - [ORCID](https://orcid.org/0000-0003-2326-6752)
 - Dr. Guillermo Iglesias ([guillermo.iglesias@upm.es](mailto:guillermo.iglesias@upm.es))
+  - [Google Scholar](https://scholar.google.com/citations?user=om5L0VoAAAAJ)
   - [ORCID](https://orcid.org/0000-0001-8733-7148)
 - Dr. Raúl Lara-Cabrera ([raul.lara@upm.es](mailto:raul.lara@upm.es))
   - [Google Scholar](https://scholar.google.com/citations?user=WNO0uTwAAAAJ)
@@ -56,9 +57,14 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 
 ## Recent publications (last 5 years)
 
-### 2024
+### 2025
+- Iglesias, G., Zamorano, M., & Sarro, F. (2025). **Search-Based Negative Prompt Optimisation for Text-to-Image Generation**. International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar), pp. 94-110.
 
+### 2024
+- Mazón, M. J. C., García, R. M., García, E. A., del Castillo, M. H. G., & Iglesias, G. (2024). **Binary Classification Optimisation with AI-Generated Data**. IFIP International Conference on Testing Software and Systems (pp. 210-216).
+- [Source code](https://github.com/Ekaitz723/Skin-lesion-clasif-GDA)
 - González‐Miguéns, R., Cano, E., García‐Gallo Pinto, M., Peña, P. G., Rincón‐Barrado, M., Iglesias, G., ... & Lara, E. (2024). **The voice of the little giants: Arcellinida testate amoebae in environmental DNA‐based bioindication, from taxonomy free to haplotypic level**. Molecular Ecology Resources, e13999.
+- [Open Access](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13999))
 - Iglesias, G., Talavera, E., Troya, J., Díaz-Álvarez, A., & García-Remesal, M. (2024). **Artificial intelligence model for tumoral clinical decision support systems**. Computer Methods and Programs in Biomedicine, 253, 108228.
   - [arXiv preprint](https://arxiv.org/html/2301.03701v3)
   - [Source code](https://purl.com/mocae_brats)
