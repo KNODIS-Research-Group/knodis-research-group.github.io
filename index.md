@@ -62,7 +62,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 
 ### 2024
 - Mazón, M. J. C., García, R. M., García, E. A., del Castillo, M. H. G., & Iglesias, G. (2024). **Binary Classification Optimisation with AI-Generated Data**. IFIP International Conference on Testing Software and Systems (pp. 210-216).
-- [Source code](https://github.com/Ekaitz723/Skin-lesion-clasif-GDA)
+  - [Source code](https://github.com/Ekaitz723/Skin-lesion-clasif-GDA)
 - González‐Miguéns, R., Cano, E., García‐Gallo Pinto, M., Peña, P. G., Rincón‐Barrado, M., Iglesias, G., ... & Lara, E. (2024). **The voice of the little giants: Arcellinida testate amoebae in environmental DNA‐based bioindication, from taxonomy free to haplotypic level**. Molecular Ecology Resources, e13999.
 - [Open Access](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13999))
 - Iglesias, G., Talavera, E., Troya, J., Díaz-Álvarez, A., & García-Remesal, M. (2024). **Artificial intelligence model for tumoral clinical decision support systems**. Computer Methods and Programs in Biomedicine, 253, 108228.
