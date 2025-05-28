@@ -58,13 +58,18 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 ## Recent publications (last 5 years)
 
 ### 2025
+- Pérez-López D., Bojorque, R., Dueñas-Lerín, J., & Ortega, F. **Deep Learning based Stacking for Recommender Systems**, 10th International Conference on Information and Communication Technology for Recommender Systems (ICTIS 2025) (New York, USA).
+- Dueñas-Lerín, J., Lara-Cabrera, R., Ortega, F., & Bobadilla, J. (2025). **Deep neural aggregation for recommending items to group of users**, Applied Soft Computing 175, 113059.
+  - [arXiv preprint](https://arxiv.org/abs/2307.09447))
+  - [Source code](https://github.com/KNODIS-Research-Group/dl-cf-groups-deep-aggregation)
 - Iglesias, G., Zamorano, M., & Sarro, F. (2025). **Search-Based Negative Prompt Optimisation for Text-to-Image Generation**. International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar), pp. 94-110.
 
 ### 2024
+- Mayor, J., López-Fernández, D., Lara-Cabrera, R., & Ortega, F. (2024). **Virtual Reality Presence in Partially non-Euclidean Environments**, PRESENCE-Virtual and Augmented Reality, 1-14.
 - Mazón, M. J. C., García, R. M., García, E. A., del Castillo, M. H. G., & Iglesias, G. (2024). **Binary Classification Optimisation with AI-Generated Data**. IFIP International Conference on Testing Software and Systems (pp. 210-216).
-- [Source code](https://github.com/Ekaitz723/Skin-lesion-clasif-GDA)
+  - [Source code](https://github.com/Ekaitz723/Skin-lesion-clasif-GDA)
 - González‐Miguéns, R., Cano, E., García‐Gallo Pinto, M., Peña, P. G., Rincón‐Barrado, M., Iglesias, G., ... & Lara, E. (2024). **The voice of the little giants: Arcellinida testate amoebae in environmental DNA‐based bioindication, from taxonomy free to haplotypic level**. Molecular Ecology Resources, e13999.
-- [Open Access](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13999))
+  - [Open Access](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13999))
 - Iglesias, G., Talavera, E., Troya, J., Díaz-Álvarez, A., & García-Remesal, M. (2024). **Artificial intelligence model for tumoral clinical decision support systems**. Computer Methods and Programs in Biomedicine, 253, 108228.
   - [arXiv preprint](https://arxiv.org/html/2301.03701v3)
   - [Source code](https://purl.com/mocae_brats)
@@ -114,21 +119,6 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
   - [arXiv preprint](https://arxiv.org/abs/2006.12379)
 - Pajuelo-Holgera, F., Gómez-Pulido, J.A., & Ortega, F. (2020). **Recommender Systems for Sensor-based Ambient Control in Academic Facilities**, Engineering Applications of Artificial Intelligence Article 96, 103993.
 
-### 2020
-
-- Ortega, F., Gonzalez-Prieto, A., Bobadilla. J., & Gutierrez, A. (2020). **Collaborative Filtering to Predict Sensor Array Values in Large IoT Networks**, Sensors 20 (16), 4628.
-  - [Open Access](https://www.mdpi.com/1424-8220/20/16/4628)
-- Lara-Cabrera, R., González-Prieto, A., & Ortega, F. (2020). **Deep Matrix Factorization approach for Collaborative Filtering Recommender Systems**, Applied Sciences-Basel 10 (14), 4926.
-  - [Open Access](https://www.mdpi.com/2076-3417/10/14/4926/htm)
-  - [Source code](https://github.com/ferortega/deep-matrix-factorization)
-- Pajuelo-Holgera, F., Gómez-Pulido, J.A., & Ortega, F. (2020). **Performance of Two Approaches of Embedded Recommender Systems**, Electronics 9 (4), 546.
-- Bobadilla, J., Ortega, F., Gutierrez, A. & Alonso, S. (2020). **Classification-based Deep Neural Network Architecture for Collaborative Filtering Recommender Systems**, International Journal of Interactive Multimedia and Artificial Intelligence 6 (1), 68-77.
-  - [Open Access](https://www.ijimai.org/journal/bibcite/reference/2755)
-- Lara-Cabrera, R., González-Prieto, A., Ortega, F., & Bobadilla, J. (2020). **Evolving Matrix Factorization based Collaborative Filtering using Genetic Programming**, Applied Sciences-Basel 10 (2), 675.
-  - [Open Access](https://www.mdpi.com/2076-3417/10/2/675)
-  - [Source code](https://github.com/ferortega/evolutionary-matrix-factorization)
-- Pajuelo-Holgera, F., Gómez-Pulido, J.A., Ortega, F., & Granado-Criado J.M. (2020). **Recommender system implementations for embedded collaborative filtering applications**, Microprocessors and Microsystems 73, .
-
 ## Active research projects
 
 <!-- - **DL-CEGM: Aumento de la calidad y de la equidad, a grupos minoritarios, en las recomendaciones obtenidas mediante filtrado colaborativo basado en técnicas de Deep Learning** (*PID2019-106493RB-I00*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From jun 2020 to may 2023. Principal Investigator: Jesús Bobadilla. -->
@@ -136,14 +126,14 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 
 ## Thesis
 
-- D. Jorge Dueñas Lerín. **Recomendación a grupos de usuarios usando técnicas de aprendizaje profundo**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities, Universidad Politécnica de Madrid). Supervisors: D. Raúl Lara Cabrera & Dr. Fernando Ortega. April 2024.
+- D. Guillermo Iglesias Hernández. **Advanced Deep Learning Models for Precise Medical Image Analysis and Diagnosis**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: D. Edgar Talavera Muñoz. Febrero 2025.
+- D. Jorge Dueñas Lerín. **Recomendación a grupos de usuarios usando técnicas de aprendizaje profundo**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: D. Raúl Lara Cabrera & Dr. Fernando Ortega. April 2024.
 - D. Francisco Pajuelo Holguera. **Sistemas de recomendación basados en filtrado colaborativo: aceleración mediante computación reconfigurable y aplicaciones predictivas sensoriales**. Doctorado en Tecnología Aeroespacial: Ingenierías Electromagnética, Electrónica, Informática y Mecánica (Universidad de Extremadura). Supervisors: Dr. Juan Antonio Gómez-Pulido & Dr. Fernando Ortega. July 2021.
 - D. Remigio Hurtado Ortiz. **Recomendación a grupos de usuarios usando el concepto de singularidades**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: Dr. Jesús Bobadilla & Dr. Fernando Ortega. February 2020.
 - D. Rodolfo Bojorque Chasi. **Clustering de sistemas de recomendación mediante técnicas de factorización matricial**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: Dr. Jesús Bobadilla & Dr. Fernando Ortega. February 2020.
-- Dª. Priscila Marisela Valdiviezo Diaz. **Sistema recomendador híbrido basado en modelos probabilísticos**. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: Dr. Jesús Bobadilla & Dr. Antonio Hernando. September 2019.
 
 ## Research resources
 
 - [Collaborative Filtering for Java (CF4J)](http://cf4j.etsisi.upm.es/): an object-oriented Java framework designed for the trial and error process for Collaborative Filtering research.
-- [make_spirals](https://github.com/KNODIS-Research-Group/make_spirals): a python module to generates a synthetic data set composed of interlaced Archimedean spirals.
-- You can also visit [our organization in GitHub](https://github.com/KNODIS-Research-Group){:target="_blank"}.
+- [make_spirals](https://github.com/KNODIS-Research-Group/make_spirals): a Python module to generate a synthetic data set composed of interlaced Archimedean spirals.
+- You can also visit [our organization in GitHub](https://github.com/KNODIS-Research-Group).
