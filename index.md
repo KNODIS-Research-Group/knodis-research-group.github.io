@@ -123,7 +123,8 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 
 <!-- - *DL-CEGM: Aumento de la calidad y de la equidad, a grupos minoritarios, en las recomendaciones obtenidas mediante filtrado colaborativo basado en técnicas de Deep Learning* (*PID2019-106493RB-I00*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From jun 2020 to may 2023. Principal Investigator: Jesús Bobadilla. -->
 - *ALENTAR-J-CM: Aplicación de modelos del LENguaje a gran escala para la prevención sociosaniTAria de problemas de salud mental y Riesgo de suicidio en Jóvenes* (*TEC-2024/COM-224*). Project funded by *Comunidad de Madrid, Consejería de Educación, Ciencia y Universidades*. From jan 2025 to dec 2028. Principal Investigator: Raúl Lara-Cabrera.
-
+- *CUBIC: Viñedos con CUBIertas vegetales ante el Cambio climático* (*PID2023-147576OB-C21*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From sep 2024 to dec 2028. Principal Investigator: [Chiquinquirá Hontoria Fernández](mailto:c.hontoria@upm.es) [![ORCID Icon](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8089-0327).
+  
 ## Thesis
 
 - D. Guillermo Iglesias Hernández. *Advanced Deep Learning Models for Precise Medical Image Analysis and Diagnosis*. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: D. Edgar Talavera Muñoz. Febrero 2025.
