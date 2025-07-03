@@ -26,8 +26,6 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 
 ### Research team
 
-- Dr. Santiago Alonso ([santiago.alonso@upm.es](mailto:santiago.alonso@upm.es))
-  - [ORCID](https://orcid.org/0000-0002-0870-7145)
 - Dra. Sandra Arranz Paraiso ([sandra.paraiso@uam.es](mailto:sandra.paraiso@uam.es))
   - [ORCID](https://orcid.org/0000-0002-4246-1089)
 - Dra. Gema Bello ([gema.borgaz@upm.es](mailto:gema.borgaz@upm.es))
