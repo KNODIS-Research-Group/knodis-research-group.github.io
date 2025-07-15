@@ -30,6 +30,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
   - [ORCID](https://orcid.org/0000-0002-4246-1089)
 - Dra. Gema Bello ([gema.borgaz@upm.es](mailto:gema.borgaz@upm.es))
   - [ORCID](https://orcid.org/0000-0003-2826-3286)
+- Dr. Burguet Burget Castell
 - Dr. Alberto Díaz-Álvarez ([alberto.diaz@upm.es](mailto:alberto.diaz@upm.es))
   - [ORCID](https://orcid.org/0000-0002-4150-9052)
 - Dr. Jorge Dueñas ([jorge.duenas.lerin@upm.es](mailto:jorge.duenas.lerin@upm.es))
