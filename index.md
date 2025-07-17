@@ -33,7 +33,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 - Dr. Jordi Burguet Castell ([j.burguet@upm.es](mailto:j.burguet@upm.es))
   - [Google Scholar](https://scholar.google.com/citations?user=rvTYG4sAAAAJ)
   - [ORCID](https://orcid.org/0000-0002-9198-5380)
-- Dr. Carlos Castilla
+- Dr. Carlos Castilla ([c.castilla@upm.es](mailto:c.castilla@upm.es))
   - [Google Scholar](https://scholar.google.com/citations?user=yzh3hNEAAAAJ&hl=es)
   - [ORCID](https://orcid.org/0000-0002-6087-3140)
 - Dr. Alberto Díaz-Álvarez ([alberto.diaz@upm.es](mailto:alberto.diaz@upm.es))
