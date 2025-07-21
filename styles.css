@@ -181,12 +181,14 @@ ul ul li:has(a[href*="scholar.google.com"])::before {
 /* ORCID */
 ul ul li:has(a[href*="orcid.org"])::before {
   content: "\f8d2";
+  font-family: "Font Awesome 6 Brands";
   font-weight: 400;
 }
 
 /* Github */
 ul ul li:has(a[href*="github.com"])::before {
   content: "\f09b";
+  font-family: "Font Awesome 6 Brands";
   font-weight: 400;
 }
 
