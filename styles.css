@@ -181,11 +181,13 @@ ul ul li:has(a[href*="scholar.google.com"])::before {
 /* ORCID */
 ul ul li:has(a[href*="orcid.org"])::before {
   content: "\f8d2";
+  font-weight: 400;
 }
 
 /* Github */
 ul ul li:has(a[href*="github.com"])::before {
   content: "\f09b";
+  font-weight: 400;
 }
 
 /* Enlaces a manuscrítos */
