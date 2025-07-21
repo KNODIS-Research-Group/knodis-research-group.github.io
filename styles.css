@@ -162,35 +162,30 @@ ul ul li {
   margin-bottom: 0rem;
 }
 
-/* Google Scholar */
-ul ul li:has(a[href*="scholar.google.com"])::before {
-  content: "\f19d"; 
+/* Icono de enlace por defecto */
+ul ul li:has(a)::before {
+  content: "\f0c1";
   font-family: "Font Awesome 6 Free";
-  font-weight: 900;
   position: absolute;
   left: 0;
   top: 0.1em;
   color: #1A253A;
+}
+
+/* Google Scholar */
+ul ul li:has(a[href*="scholar.google.com"])::before {
+  content: "\f19d"; 
+  font-weight: 900;
 }
 
 /* ORCID */
 ul ul li:has(a[href*="orcid.org"])::before {
   content: "\f8d2";
-  font-family: "Font Awesome 6 Brands";
-  position: absolute;
-  left: 0;
-  top: 0.1em;
-  color: #1A253A;
 }
 
 /* Github */
 ul ul li:has(a[href*="github.com"])::before {
   content: "\f09b";
-  font-family: "Font Awesome 6 Brands";
-  position: absolute;
-  left: 0;
-  top: 0.1em;
-  color: #1A253A;
 }
 
 /* Enlaces a manuscrítos */
@@ -204,11 +199,6 @@ ul ul li:has(a[href*="ijimai.org"])::before,
 ul ul li:has(a[href*="onlinelibrary.wiley.com"])::before
 {
   content: "\f15c";
-  font-family: "Font Awesome 6 Free";
-  position: absolute;
-  left: 0;
-  top: 0.1em;
-  color: #1A253A;
 }
 
 /* Pie de página */
