@@ -23,7 +23,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 ([fernando.ortega@upm.es](mailto:fernando.ortega@upm.es))
   - [Google Scholar](https://scholar.google.com/citations?user=EvbxT2sAAAAJ&hl=en)
   - [ORCID](https://orcid.org/0000-0003-4765-1479)
-  - [Portal Cinetífico UPM](https://portalcientifico.upm.es/es/ipublic/researcher/332463)
+  - [Portal Científico UPM](https://portalcientifico.upm.es/es/ipublic/researcher/332463)
 
 ### Research team
 
