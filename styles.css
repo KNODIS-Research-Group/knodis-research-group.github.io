@@ -166,6 +166,7 @@ ul ul li {
 ul ul li:has(a)::before {
   content: "\f0c1";
   font-family: "Font Awesome 6 Free";
+  font-weight: 900;
   position: absolute;
   left: 0;
   top: 0.1em;
@@ -175,7 +176,6 @@ ul ul li:has(a)::before {
 /* Google Scholar */
 ul ul li:has(a[href*="scholar.google.com"])::before {
   content: "\f19d"; 
-  font-weight: 900;
 }
 
 /* ORCID */
