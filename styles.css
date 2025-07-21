@@ -200,7 +200,8 @@ ul ul li:has(a[href*="preprints.org"])::before,
 ul ul li:has(a[href*="link.springer.com"])::before,
 ul ul li:has(a[href*="ieeexplore.ieee.org"])::before,
 ul ul li:has(a[href*="mdpi.com"])::before,
-ul ul li:has(a[href*="ijimai.org"])::before
+ul ul li:has(a[href*="ijimai.org"])::before,
+ul ul li:has(a[href*="onlinelibrary.wiley.com"])::before
 {
   content: "\f15c";
   font-family: "Font Awesome 6 Free";
