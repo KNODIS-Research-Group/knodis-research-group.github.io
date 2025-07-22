@@ -53,6 +53,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
   - [Google Scholar](https://scholar.google.com/citations?user=jY17GykAAAAJ&hl=es)
   - [ORCID](https://orcid.org/0000-0002-9699-3398)
 - Dr. Edgar Talavera ([e.talavera@upm.es](mailto:e.talavera@upm.es))
+  - [Google Scholar](https://scholar.google.es/citations?user=rSxmiGsAAAAJ&hl=es)
   - [ORCID](https://orcid.org/0000-0001-9480-922X)
 
 ### Students
