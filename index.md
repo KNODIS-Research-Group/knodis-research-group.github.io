@@ -58,6 +58,15 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 - Víctor Ramos Osuna
 - Diego Pérez-López
 
+## External Collaborators
+
+- Dr. Rodolfo Bojorque Chasi (Universidad Politécnica Salesiana)
+  - [Google Scholar](https://scholar.google.com/citations?user=lJRmAAUAAAAJ)
+  - [ORCID](https://orcid.org/0000-0002-6045-8692)
+ 
+- Dr. Héctor Menendez Benito (King’s College London)
+  - [Google Scholar](https://scholar.google.com/citations?user=-nmhrgcAAAAJ&hl=es&oi=ao)
+
 ## Recent publications (last 5 years)
 
 ### 2025
