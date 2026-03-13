@@ -69,6 +69,10 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 
 ## Recent publications (last 5 years)
 
+### 2026
+García-Ramos, A., Doval, S., Essau, C. A., Lara-Cabrera, R., Ayad-Ahmed, W., & de la Torre-Luque, A. (2026). *Profiling reasons for non-attendance in psychological assessments in adolescent suicide at-risk group using natural language processing*. Child Abuse & Neglect, 173, 107920. doi: 10.1016/j.chiabu.2026.107920
+  - [Open Access](https://www.sciencedirect.com/science/article/pii/S0145213426000396)
+
 ### 2025
 - Ramos-Osuna, V., Díaz-Álvarez, A., & Lara-Cabrera, R. *Efficient n-body simulations using physics informed graph neural networks*, XVI Congreso Español de Metaheurísticas, Algoritmos Evolutivos y Bioinspirados (MAEB 2025) (Donostia - San Sebastián, Gipuzkoa, Spain).
 - Pérez-López, D., Bojorque, R., Dueñas-Lerín, J., & Ortega, F. *Deep Learning based Stacking for Recommender Systems*, 10th International Conference on Information and Communication Technology for Recommender Systems (ICTIS 2025) (New York, USA).
@@ -136,7 +140,7 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 
 <!-- - *DL-CEGM: Aumento de la calidad y de la equidad, a grupos minoritarios, en las recomendaciones obtenidas mediante filtrado colaborativo basado en técnicas de Deep Learning* (*PID2019-106493RB-I00*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From jun 2020 to may 2023. Principal Investigator: Jesús Bobadilla. -->
 - *INTEROPT: Algoritmos de optimización y control conscientes del desgaste para la operación de centrales hidroeléctricas híbridas y stand-alone* (*PID2024-160424OB-C21*). From sep 2025 to aug 2028. Principal Investigator: Ignacio Pérez Díaz.
-- *ALENTAR-J-CM: Aplicación de modelos del LENguaje a gran escala para la prevención sociosaniTAria de problemas de salud mental y Riesgo de suicidio en Jóvenes* (*TEC-2024/COM-224*). Project funded by *Comunidad de Madrid, Consejería de Educación, Ciencia y Universidades*. From jan 2025 to dec 2028. Principal Investigator: Alejandro de la Torre (Universidad Complutense de Madrid), Raúl Lara Cabrera, Enrique Baca García (Fundación Jiménez Díaz), Marina Díaz Marsá (Hospital Clínico San Carlos) and María Luisa Barrigón Estévez (Hospital Universitario Gregorio Marañón).
+- *ALENTAR-J-CM: Aplicación de modelos del LENguaje a gran escala para la prevención sociosaniTAria de problemas de salud mental y Riesgo de suicidio en Jóvenes* (*TEC-2024/COM-224*). Project funded by *Comunidad de Madrid, Consejería de Educación, Ciencia y Universidades*. From jan 2025 to dec 2028. Principal Investigator: Alejandro de la Torre (Universidad Complutense de Madrid), Raúl Lara Cabrera, Enrique Baca García (Fundación Jiménez Díaz), Marina Díaz Marsá (Hospital Clínico San Carlos) and María Luisa Barrigón Estévez (Hospital Universitario Gregorio Marañón). [Web](https://proyectoalentar.org)
 - *CUBIC: Viñedos con CUBIertas vegetales ante el Cambio climático* (*PID2023-147576OB-C21*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From sep 2024 to dec 2028. Principal Investigator: [Chiquinquirá Hontoria Fernández](https://orcid.org/0000-0002-8089-0327).
   
 ## Thesis
