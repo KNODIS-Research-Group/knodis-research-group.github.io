@@ -70,10 +70,26 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 ## Recent publications (last 5 years)
 
 ### 2026
-García-Ramos, A., Doval, S., Essau, C. A., Lara-Cabrera, R., Ayad-Ahmed, W., & de la Torre-Luque, A. (2026). *Profiling reasons for non-attendance in psychological assessments in adolescent suicide at-risk group using natural language processing*. Child Abuse & Neglect, 173, 107920. doi: 10.1016/j.chiabu.2026.107920
+- Mejia, F., Iglesias, G., Álvarez, F., & Talavera, E. (2026). A dual stream architecture integrating pathology foundation models for automated tumor region segmentation in Ki-67 assessment. Scientific Reports.
+  - [Open Access](https://www.nature.com/articles/s41598-026-70235-9)
+- Xie, R., Zhukova, A., Peña, P. G., Iglesias, G., Hu, S., Wang, J., ... & Gascuel, O. (2026). Scalable deep-learning-based inference of time-varying transmission dynamics from outbreak phylogenies.
+  - [medRxiv preprint](https://www.medrxiv.org/content/10.64898/2026.05.07.26352673v1)
+- Iglesias, G., Talavera, E., & Troya, J. (2026). Chest X-ray deep learning comparative diagnosis using visual and semantic similarity with variational autoencoders. Biomedical Signal Processing and Control, 116, 109540.
+  - [Open Access](https://www.sciencedirect.com/science/article/pii/S1746809426000947)
+  - [Source code](https://purl.com/mocvae)
+- Iglesias, G., Bello-Orgaz, G., Navas-Loro, M., Ramirez-Atencia, C., Robert, M. S., & Baca-Garcia, E. (2026). Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation.
+  - [arXiv preprint](https://arxiv.org/abs/2604.27014)
+- García-Ramos, A., Doval, S., Essau, C. A., Lara-Cabrera, R., Ayad-Ahmed, W., & de la Torre-Luque, A. (2026). *Profiling reasons for non-attendance in psychological assessments in adolescent suicide at-risk group using natural language processing*. Child Abuse & Neglect, 173, 107920. doi: 10.1016/j.chiabu.2026.107920
   - [Open Access](https://www.sciencedirect.com/science/article/pii/S0145213426000396)
 
 ### 2025
+- de la Peña, P. G., Iglesias, G., Talavera, E., Meseguer, A. S., & Sanmartín, I. (2026). On the utility of deep learning for model classification and parameter estimation on complex diversification scenarios. Systematic Biology, syag030.
+  - [Open Access](https://doi.org/10.1093/sysbio/syag030)
+  - [Source code](https://github.com/pablogpena/deep_birth_death)
+  - [Data](https://datadryad.org/dataset/doi:10.5061/dryad.f7m0cfz6b)
+- Iglesias, G., Menendez, H., & Talavera, E. (2025). Improving explanations for medical X-ray diagnosis combining variational autoencoders and adversarial machine learning. Computers in Biology and Medicine, 188, 109857.
+  - [Open Access](https://www.sciencedirect.com/science/article/pii/S0010482525002070)
+  - [Source code](https://purl.org/mocvae-xai)
 - Ramos-Osuna, V., Díaz-Álvarez, A., & Lara-Cabrera, R. *Efficient n-body simulations using physics informed graph neural networks*, XVI Congreso Español de Metaheurísticas, Algoritmos Evolutivos y Bioinspirados (MAEB 2025) (Donostia - San Sebastián, Gipuzkoa, Spain).
 - Pérez-López, D., Bojorque, R., Dueñas-Lerín, J., & Ortega, F. *Deep Learning based Stacking for Recommender Systems*, 10th International Conference on Information and Communication Technology for Recommender Systems (ICTIS 2025) (New York, USA).
 - Dueñas-Lerín, J., Lara-Cabrera, R., Ortega, F., & Bobadilla, J. (2025). *Deep neural aggregation for recommending items to group of users*, Applied Soft Computing 175, 113059.
