@@ -141,21 +141,6 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
   - [Source code](https://github.com/KNODIS-Research-Group/DirMF)
 - Bobadilla, J., González-Prieto, Á., Ortega, F., & Lara-Cabrera, R. (2022). *Deep Learning Approach to Obtain Collaborative Filtering Neighborhoods*, Neural Computing and Applications 34, In Press.
 
-### 2021
-
-- López-Fernández, D., Gordillo, A., Ortega, F., Yague, A., & Tovar, E. (2021). *LEGO® Serious Play in Software Engineering Education*, IEEE Access 9, 103120-103131.
-- Ortega, F., Lara-Cabrera, R., González-Prieto, A., & Bobadilla, J. (2021). *Providing Reliability in Recommender Systems through Bernoulli Matrix Factorization*, Information Sciences 553, 110-128.
-  - [arXiv preprint](https://arxiv.org/abs/2006.03481)
-  - [Source code](https://github.com/ferortega/bernoulli-matrix-factorization)
-- Ortega, F., Mayor, J., López-Fernández, D., & Lara-Cabrera, R. (2021). *CF4J 2.0: Adapting Collaborative Filtering for Java to New Challenges of Collaborative Filtering based Recommender Systems*, Knowledge-Based Systems 215, 106629.
-  - [Source code](https://github.com/ferortega/cf4j)
-- Bobadilla, J., Lara-Cabrera, R., González-Prieto, Á., & Ortega, F. (2021). *DeepFair: Deep Learning for Improving Fairness in Recommender Systems*, International Journal of Interactive Multimedia and Artificial Intelligence 6, 86-94.
-  - [Open Access](https://www.ijimai.org/journal/bibcite/reference/2862)
-  - [arXiv preprint](https://arxiv.org/abs/2006.05255)
-- Bobadilla, J., González-Prieto, Á., Ortega, F., & Lara-Cabrera, R. (2021). *Deep Learning feature selection to unhide demographic recommender systems factors*, Neural Computing and Applications 33 (12), 7291-7308.
-  - [arXiv preprint](https://arxiv.org/abs/2006.12379)
-- Pajuelo-Holgera, F., Gómez-Pulido, J.A., & Ortega, F. (2020). *Recommender Systems for Sensor-based Ambient Control in Academic Facilities*, Engineering Applications of Artificial Intelligence Article 96, 103993.
-
 ## Active research projects
 
 <!-- - *DL-CEGM: Aumento de la calidad y de la equidad, a grupos minoritarios, en las recomendaciones obtenidas mediante filtrado colaborativo basado en técnicas de Deep Learning* (*PID2019-106493RB-I00*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From jun 2020 to may 2023. Principal Investigator: Jesús Bobadilla. -->
