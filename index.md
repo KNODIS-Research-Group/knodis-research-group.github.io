@@ -56,7 +56,6 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 ### Students
 
 - Víctor Ramos Osuna
-- Diego Pérez-López
 
 ## External Collaborators
 
@@ -70,23 +69,28 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 ## Recent publications (last 5 years)
 
 ### 2026
-- Mejia, F., Iglesias, G., Álvarez, F., & Talavera, E. (2026). A dual stream architecture integrating pathology foundation models for automated tumor region segmentation in Ki-67 assessment. Scientific Reports.
+- González-Prieto, A., Gutiérrez, A., Ortega, F., & Lara-Cabrera, R. (2026). *Restricted Bernoulli Matrix Factorization: Balancing the trade-off between prediction accuracy and coverage in classification based collaborative filtering*, International Journal of Interactive Multimedia and Artificial Intelligence.
+  - [Open Access](https://www.ijimai.org/index.php/ijimai/article/view/2254)
+  - [arXiv preprint](https://arxiv.org/abs/2210.10619)
+  - [Source code](https://github.com/KNODIS-Research-Group/resbemf)
+- Valdiviezo-Diaz, P., Chicaiza, J., Ortega, F., Guamán, D. (2026). *A Hybrid Approach for Course Recommendation: Leveraging Collaborative Filtering and Knowledge Graphs*, Connection Science 38 (1), 2635259.
+- Mejia, F., Iglesias, G., Álvarez, F., & Talavera, E. (2026). *A dual stream architecture integrating pathology foundation models for automated tumor region segmentation in Ki-67 assessment*. Scientific Reports.
   - [Open Access](https://www.nature.com/articles/s41598-026-70235-9)
-- Xie, R., Zhukova, A., Peña, P. G., Iglesias, G., Hu, S., Wang, J., ... & Gascuel, O. (2026). Scalable deep-learning-based inference of time-varying transmission dynamics from outbreak phylogenies.
+- Xie, R., Zhukova, A., Peña, P. G., Iglesias, G., Hu, S., Wang, J., ... & Gascuel, O. (2026). *Scalable deep-learning-based inference of time-varying transmission dynamics from outbreak phylogenies*.
   - [medRxiv preprint](https://www.medrxiv.org/content/10.64898/2026.05.07.26352673v1)
-- Iglesias, G., Talavera, E., & Troya, J. (2026). Chest X-ray deep learning comparative diagnosis using visual and semantic similarity with variational autoencoders. Biomedical Signal Processing and Control, 116, 109540.
+- Iglesias, G., Talavera, E., & Troya, J. (2026). *Chest X-ray deep learning comparative diagnosis using visual and semantic similarity with variational autoencoders*. Biomedical Signal Processing and Control, 116, 109540.
   - [Open Access](https://www.sciencedirect.com/science/article/pii/S1746809426000947)
   - [Source code](https://purl.com/mocvae)
-- Iglesias, G., Bello-Orgaz, G., Navas-Loro, M., Ramirez-Atencia, C., Robert, M. S., & Baca-Garcia, E. (2026). Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation.
+- Iglesias, G., Bello-Orgaz, G., Navas-Loro, M., Ramirez-Atencia, C., Robert, M. S., & Baca-Garcia, E. (2026). *Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation*.
   - [arXiv preprint](https://arxiv.org/abs/2604.27014)
 - García-Ramos, A., Doval, S., Essau, C. A., Lara-Cabrera, R., Ayad-Ahmed, W., & de la Torre-Luque, A. (2026). *Profiling reasons for non-attendance in psychological assessments in adolescent suicide at-risk group using natural language processing*. Child Abuse & Neglect, 173, 107920. doi: 10.1016/j.chiabu.2026.107920
   - [Open Access](https://www.sciencedirect.com/science/article/pii/S0145213426000396)
-
-### 2025
 - de la Peña, P. G., Iglesias, G., Talavera, E., Meseguer, A. S., & Sanmartín, I. (2026). On the utility of deep learning for model classification and parameter estimation on complex diversification scenarios. Systematic Biology, syag030.
   - [Open Access](https://doi.org/10.1093/sysbio/syag030)
   - [Source code](https://github.com/pablogpena/deep_birth_death)
   - [Data](https://datadryad.org/dataset/doi:10.5061/dryad.f7m0cfz6b)
+
+### 2025
 - Iglesias, G., Menendez, H., & Talavera, E. (2025). Improving explanations for medical X-ray diagnosis combining variational autoencoders and adversarial machine learning. Computers in Biology and Medicine, 188, 109857.
   - [Open Access](https://www.sciencedirect.com/science/article/pii/S0010482525002070)
   - [Source code](https://purl.org/mocvae-xai)
@@ -155,12 +159,13 @@ Through this blend of cutting-edge research, innovation in teaching, and industr
 ## Active research projects
 
 <!-- - *DL-CEGM: Aumento de la calidad y de la equidad, a grupos minoritarios, en las recomendaciones obtenidas mediante filtrado colaborativo basado en técnicas de Deep Learning* (*PID2019-106493RB-I00*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From jun 2020 to may 2023. Principal Investigator: Jesús Bobadilla. -->
-- *INTEROPT: Algoritmos de optimización y control conscientes del desgaste para la operación de centrales hidroeléctricas híbridas y stand-alone* (*PID2024-160424OB-C21*). From sep 2025 to aug 2028. Principal Investigator: Ignacio Pérez Díaz.
+<!-- - *INTEROPT: Algoritmos de optimización y control conscientes del desgaste para la operación de centrales hidroeléctricas híbridas y stand-alone* (*PID2024-160424OB-C21*). From sep 2025 to aug 2028. Principal Investigator: Ignacio Pérez Díaz. -->
 - *ALENTAR-J-CM: Aplicación de modelos del LENguaje a gran escala para la prevención sociosaniTAria de problemas de salud mental y Riesgo de suicidio en Jóvenes* (*TEC-2024/COM-224*). Project funded by *Comunidad de Madrid, Consejería de Educación, Ciencia y Universidades*. From jan 2025 to dec 2028. Principal Investigator: Alejandro de la Torre (Universidad Complutense de Madrid), Raúl Lara Cabrera, Enrique Baca García (Fundación Jiménez Díaz), Marina Díaz Marsá (Hospital Clínico San Carlos) and María Luisa Barrigón Estévez (Hospital Universitario Gregorio Marañón). [Web](https://proyectoalentar.org)
 - *CUBIC: Viñedos con CUBIertas vegetales ante el Cambio climático* (*PID2023-147576OB-C21*). Project funded by *Ministerio de Ciencia, Innovación y Universidades*. From sep 2024 to dec 2028. Principal Investigator: [Chiquinquirá Hontoria Fernández](https://orcid.org/0000-0002-8089-0327).
   
 ## Thesis
 
+- D. Diego Pérez López. *Sistemas de Recomendación Equitativos y Robustos: Mitigación del Sesgo Demográfico y Gestión de la Incertidumbre*. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: D. Fernando Ortega Requena. Junio 2026.
 - D. Guillermo Iglesias Hernández. *Advanced Deep Learning Models for Precise Medical Image Analysis and Diagnosis*. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: D. Edgar Talavera Muñoz. Febrero 2025.
 - D. Jorge Dueñas Lerín. *Recomendación a grupos de usuarios usando técnicas de aprendizaje profundo*. Doctorado en Ciencias y Tecnologías de la Computación para Smart Cities (Universidad Politécnica de Madrid). Supervisors: D. Raúl Lara Cabrera & Dr. Fernando Ortega. April 2024.
 - D. Francisco Pajuelo Holguera. *Sistemas de recomendación basados en filtrado colaborativo: aceleración mediante computación reconfigurable y aplicaciones predictivas sensoriales*. Doctorado en Tecnología Aeroespacial: Ingenierías Electromagnética, Electrónica, Informática y Mecánica (Universidad de Extremadura). Supervisors: Dr. Juan Antonio Gómez-Pulido & Dr. Fernando Ortega. July 2021.
